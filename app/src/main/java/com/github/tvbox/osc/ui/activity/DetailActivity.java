@@ -318,7 +318,11 @@ public class DetailActivity extends BaseActivity {
                     vodInfo.sourceKey = mVideo.sourceKey;
 
                     tvName.setText(mVideo.name);
-                    setTextShow(tvSite, "来源：", ApiConfig.get().getSource(mVideo.sourceKey).getName());
+                    if (sourceKey.equals("豆瓣")) {
+                        setTextShow(tvSite, "来源：", sourceKey);
+                    }else{
+                        setTextShow(tvSite, "来源：", ApiConfig.get().getSource(mVideo.sourceKey).getName());
+                    }
                     setTextShow(tvYear, "年份：", mVideo.year == 0 ? "" : String.valueOf(mVideo.year));
                     setTextShow(tvArea, "地区：", mVideo.area);
                     setTextShow(tvLang, "语言：", mVideo.lang);
@@ -415,7 +419,11 @@ public class DetailActivity extends BaseActivity {
             vodId = vid;
             sourceKey = key;
             showLoading();
-            sourceViewModel.getDetail(sourceKey, vodId);
+            if (sourceKey.equals("豆瓣")) {
+                sourceViewModel.getDoubanDetail(sourceKey, vodId);
+            }else{
+                sourceViewModel.getDetail(sourceKey, vodId);
+            }
         }
     }
 

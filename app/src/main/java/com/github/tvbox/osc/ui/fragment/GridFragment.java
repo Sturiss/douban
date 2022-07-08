@@ -15,6 +15,7 @@ import com.github.tvbox.osc.bean.Movie;
 import com.github.tvbox.osc.bean.MovieSort;
 import com.github.tvbox.osc.ui.activity.DetailActivity;
 import com.github.tvbox.osc.ui.adapter.GridAdapter;
+import com.github.tvbox.osc.ui.adapter.HomeHotVodAdapter;
 import com.github.tvbox.osc.ui.dialog.GridFilterDialog;
 import com.github.tvbox.osc.ui.tv.widget.LoadMoreView;
 import com.github.tvbox.osc.util.FastClickCheckUtil;
@@ -32,7 +33,8 @@ public class GridFragment extends BaseLazyFragment {
     private TvRecyclerView mGridView;
     private SourceViewModel sourceViewModel;
     private GridFilterDialog gridFilterDialog;
-    private GridAdapter gridAdapter;
+    private BaseQuickAdapter gridAdapter;
+    private HomeHotVodAdapter homeHotVodAdapter;
     private int page = 1;
     private int maxPage = 1;
     private boolean isLoad = false;
@@ -62,14 +64,22 @@ public class GridFragment extends BaseLazyFragment {
     private void initView() {
         mGridView = findViewById(R.id.mGridView);
         mGridView.setHasFixedSize(true);
-        gridAdapter = new GridAdapter();
+        if (sortData.id.equals("my1")||sortData.id.equals("my2")) {
+            gridAdapter = new HomeHotVodAdapter();
+        }else{
+            gridAdapter = new GridAdapter();
+        }
         mGridView.setAdapter(gridAdapter);
         mGridView.setLayoutManager(new V7GridLayoutManager(this.mContext, isBaseOnWidth() ? 5 : 6));
         gridAdapter.setOnLoadMoreListener(new BaseQuickAdapter.RequestLoadMoreListener() {
             @Override
             public void onLoadMoreRequested() {
                 gridAdapter.setEnableLoadMore(true);
-                sourceViewModel.getList(sortData, page);
+                if (sortData.id.equals("my1")||sortData.id.equals("my2")) {
+                    sourceViewModel.getDoubanList(sortData, page);
+                }else{
+                    sourceViewModel.getList(sortData, page);
+                }
             }
         }, mGridView);
         mGridView.setOnItemListener(new TvRecyclerView.OnItemListener() {
@@ -100,7 +110,7 @@ public class GridFragment extends BaseLazyFragment {
             @Override
             public void onItemClick(BaseQuickAdapter adapter, View view, int position) {
                 FastClickCheckUtil.check(view);
-                Movie.Video video = gridAdapter.getData().get(position);
+                Movie.Video video = (Movie.Video) gridAdapter.getData().get(position);
                 if (video != null) {
                     Bundle bundle = new Bundle();
                     bundle.putString("id", video.id);
@@ -149,7 +159,11 @@ public class GridFragment extends BaseLazyFragment {
     private void initData() {
         showLoading();
         isLoad = false;
-        sourceViewModel.getList(sortData, page);
+        if (sortData.id.equals("my2")||sortData.id.equals("my1")) {
+            sourceViewModel.getDoubanList(sortData, page);
+        }else{
+            sourceViewModel.getList(sortData, page);
+        }
     }
 
     public boolean isTop() {

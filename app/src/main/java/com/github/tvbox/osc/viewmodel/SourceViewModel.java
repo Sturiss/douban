@@ -17,6 +17,7 @@ import com.github.tvbox.osc.bean.SourceBean;
 import com.github.tvbox.osc.event.RefreshEvent;
 import com.github.tvbox.osc.util.DefaultConfig;
 import com.github.tvbox.osc.util.HawkConfig;
+import com.github.tvbox.osc.util.UA;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -31,9 +32,17 @@ import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 
 import org.greenrobot.eventbus.EventBus;
+import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -233,6 +242,103 @@ public class SourceViewModel extends ViewModel {
         }
     }
 
+    public void getDoubanList(MovieSort.SortData sortData, int page) {
+        String sort="U";
+        String tags="";
+        String year_range="";
+        String genres="";
+        String countries="";
+
+        if (sortData.filterSelect != null && sortData.filterSelect.size() > 0) {
+            for (Iterator<String> it = sortData.filterSelect.keySet().iterator(); it.hasNext(); ) {
+                String key = it.next();
+                String value = sortData.filterSelect.get(key);
+                switch (key){
+                    case "tags":
+                        tags=value;
+                        break;
+                    case "sort":
+                        sort=value;
+                        break;
+                    case "year":
+                        year_range=value;
+                        break;
+                    case "genres":
+                        genres=value;
+                        break;
+                    case "countries":
+                        countries=value;
+                }
+            }
+        }
+
+        OkGo.<String>get("https://movie.douban.com/j/new_search_subjects")
+                .tag("doubanlist")
+                .headers("User-Agent", UA.random())
+                .params("sort", sort)   //sort: S
+                .params("range", "0,10")    //range: 0,10
+                .params("tags", tags)   //tags: 电影,经典
+                .params("start", Integer.toString((page-1)*20))  //start: 0
+                .params("genres", genres) //genres: 剧情
+                .params("countries", countries)  //countries: 欧美
+                .params("year_range", year_range) //year_range: 2021,2021
+                .execute(new AbsCallback<String>() {
+
+                    @Override
+                    public String convertResponse(okhttp3.Response response) throws Throwable {
+                        if (response.body() != null) {
+                            return response.body().string();
+                        } else {
+                            throw new IllegalStateException("网络请求错误");
+                        }
+                    }
+
+                    @Override
+                    public void onError(Response<String> response)
+                    {
+                        super.onError(response);
+                        listResult.postValue(null);
+                    }
+
+                    @Override
+                    public void onSuccess(Response<String> response)
+                    {
+                        String strByJson =  response.body();
+                        json(listResult, loadDouban(strByJson), "豆瓣");
+                    }
+                });
+    }
+
+
+    private String loadDouban(String json) {
+        JSONArray videos = new JSONArray();
+        try {
+            JsonObject infoJson = new Gson().fromJson(json, JsonObject.class);
+            JsonArray array = infoJson.getAsJsonArray("data");
+            for (JsonElement ele : array) {
+                JsonObject obj = (JsonObject) ele;
+                JSONObject vod = new JSONObject();
+                vod.put("vod_id", obj.get("id").getAsString());
+                vod.put("vod_name", obj.get("title").getAsString());
+                vod.put("vod_pic", obj.get("cover").getAsString());
+                vod.put("vod_remarks", obj.get("rate").getAsString());
+                videos.put(vod);
+            }
+            JSONObject result = new JSONObject();
+            result.put("page", 1);
+            result.put("pagecount", 200);
+            result.put("limit", 20);
+            result.put("total", 1000);
+            result.put("list", videos);
+            return result.toString();
+
+        } catch (Throwable th) {
+
+        }
+        return null;
+    }
+
+
     interface HomeRecCallback {
         void done(List<Movie.Video> videos);
     }
@@ -320,6 +426,90 @@ public class SourceViewModel extends ViewModel {
         } else {
             callback.done(null);
         }
+    }
+
+    public void getDoubanDetail(String sourceKey, String id) {
+        String dUrl ="https://movie.douban.com/subject/"+id+"/";
+        OkGo.<String>get(dUrl)
+                .tag("doubandetail")
+                .headers("User-Agent", UA.random())
+                .execute(new AbsCallback<String>() {
+
+                    @Override
+                    public String convertResponse(okhttp3.Response response) throws Throwable {
+                        if (response.body() != null) {
+                            return response.body().string();
+                        } else {
+                            throw new IllegalStateException("网络请求错误");
+                        }
+                    }
+
+                    @Override
+                    public void onError(Response<String> response)
+                    {
+                        super.onError(response);
+                        detailResult.postValue(null);
+                    }
+
+                    @Override
+                    public void onSuccess(Response<String> response)
+                    {
+                        String str =  response.body();
+                        JSONObject vodList = new JSONObject();
+                        JSONObject result = new JSONObject();
+                        //解析HTML获取DOM对象
+                        Document doc = Jsoup.parse(str);
+                        //获取导演名称
+                        Element element;
+                        try {
+                            element = doc.select("div#info a[rel=v:directedBy]").first();
+                            vodList.put("vod_director", element.text());
+                        }catch (Exception ex) {
+                            ex.printStackTrace();
+                        }
+
+                        //主演
+                        try {
+                            Elements elements = doc.select("div#info a[rel=v:starring]");
+                            String protagonist = "";
+                            for (Element e : elements) {
+                                protagonist += e.text()+"，";
+                            }
+                            if(!protagonist.equals("")){
+                                protagonist = protagonist.substring(0, protagonist.length()-1);
+                            }
+                            vodList.put("vod_actor", protagonist);
+                        }catch (Exception ex) {
+                            ex.printStackTrace();
+                        }
+
+                        //获取电影上映日期
+                        try {
+                            element = doc.select("div#info span[property=v:initialReleaseDate]").first();
+                            vodList.put("vod_pubdate", element.text());//上映日期
+                            element = doc.select("div#link-report span[property=v:summary]").first();
+                            vodList.put("vod_content", element.text());//简介
+                            element = doc.select("div#content strong[property=v:average]").first();
+                            vodList.put("vod_douban_score", element.text());//评分
+                            element = doc.select("div#content span[property=v:itemreviewed]").first();
+                            vodList.put("vod_name", element.text());//影片名称
+                            element = doc.select("div#content span[property=v:genre]").first();
+                            vodList.put("vod_class", element.text());//类型
+                            element = doc.select("div#mainpic img[src]").first();
+                            vodList.put("vod_pic", element.attr("src"));//影片封面
+                        }catch (Exception ex) {
+                            ex.printStackTrace();
+                        }
+                        JSONArray list = new JSONArray();
+                        list.put(vodList);
+                        try {
+                            result.put("list", list);
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                        json(detailResult, result.toString(), sourceKey);
+                    }
+                });
     }
 
     public void getDetail(String sourceKey, String id) {

@@ -347,7 +347,7 @@ public class HomeActivity extends BaseActivity {
                     } else {
                         fragments.add(UserFragment.newInstance(null));
                     }
-                } else {
+                }else {
                     fragments.add(GridFragment.newInstance(data));
                 }
             }

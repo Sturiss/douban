@@ -40,7 +40,11 @@ public class MovieSort implements Serializable {
             this.id = id;
             this.name = name;
         }
-
+        public SortData(String id, String name, ArrayList<SortFilter> filters) {
+            this.id = id;
+            this.name = name;
+            this.filters = filters;
+        }
 
         @Override
         public int compareTo(SortData o) {
