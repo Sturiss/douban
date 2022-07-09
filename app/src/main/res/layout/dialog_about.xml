@@ -12,8 +12,8 @@
         android:layout_height="wrap_content"
         android:lineSpacingExtra="@dimen/ts_50"
         android:lineSpacingMultiplier="0"
-        android:text="本软件只提供聚合展示功能，所有资源来自网上, 软件不参与任何制作, 上传, 储存, 下载等内容. 软件仅供学习参考, 请于安装后24小时内删除。\n\n打包分发请保留出处\nhttps://github.com/CatVodTVOfficial/TVBoxOSC"
+        android:text="本软件只提供聚合展示功能，所有资源来自网上, 软件不参与任何制作, 上传, 储存, 下载等内容. 软件仅供学习参考,不得用于商业用途， 请于安装后24小时内删除。\n感谢如下大佬无私贡献：\ncomblue   catvod   lite-cucumber   DreamDSTR \no0HalfLife0oS-DL  Scut-Demo   ixiumu Calvin Chia \nhaha459862  lppsuixn    scemsjyd Adam Jin \n技术支持(微信)：rcgold"
         android:textColor="@color/color_CC000000"
-        android:textSize="@dimen/ts_24" />
+        android:textSize="@dimen/ts_22" />
 
 </LinearLayout>
