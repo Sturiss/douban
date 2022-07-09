@@ -107,7 +107,7 @@ public class ApiConfig {
                 callback.success();
             } catch (Throwable th) {
                 th.printStackTrace();
-                callback.error("解析配置失败");
+                callback.error("配置文件有误，请检查。");
             }
             return;
         }
@@ -134,7 +134,7 @@ public class ApiConfig {
                             callback.success();
                         } catch (Throwable th) {
                             th.printStackTrace();
-                            callback.error("解析配置失败");
+                            callback.error("配置文件有误，请检查。");
                         }
                     }
 
