@@ -1,7 +1,7 @@
 
 {
 //"spider":"asset://TVBox/MaooXB/XBiubiuLA4.jar",
-  "spider":"asset://TVBox/Jar/077.jar", 
+  "spider":"asset://LionMovies/Jar/077.jar", 
 "lives": [
 {
 "group": "redirect",
