@@ -14,12 +14,7 @@
 "sites":[
 
 {"key":"csp_Kunyu77","name":"👒(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"💘(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},  
-{"key":"csp_BBB","name":"🅱️ ","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "csp_Blixs" ,"name":"🐱相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Bliyc" ,"name":"🐱演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blidw" ,"name":"🐱动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Blixq" ,"name":"🐱戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},  
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
