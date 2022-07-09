@@ -203,7 +203,8 @@ public class HomeActivity extends BaseActivity {
     private void initData() {
         if (dataInitOk && jarInitOk) {
             showLoading();
-            sourceViewModel.getSort(ApiConfig.get().getHomeSourceBean().getKey());
+                          sourceViewModel.getSort(ApiConfig.get().getHomeSourceBean().getKey());
+   ((TextView) findViewById(R.id.tvName)).setText(ApiConfig.get().getHomeSourceBean().getName());  //首页显示源站点名称。
             if (hasPermission(Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
                 LOG.e("有");
             } else {
