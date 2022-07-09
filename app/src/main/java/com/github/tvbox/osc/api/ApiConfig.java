@@ -82,7 +82,7 @@ public class ApiConfig {
     }
 
     public void loadConfig(boolean useCache, LoadConfigCallback callback, Activity activity) {
-        String apiUrl = Hawk.get(HawkConfig.API_URL, "");
+        String apiUrl = Hawk.get(HawkConfig.API_URL, "asset://LionMovies/meow.json");
         if (apiUrl.isEmpty()) {
             callback.error("-1");
             return;
