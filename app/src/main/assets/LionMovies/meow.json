@@ -15,10 +15,9 @@
   
 "sites":[
 {"key":"mjxq_spider","name":"🌏美剧","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"韩剧资源","name":"🌏韩剧","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0}
+{"key":"韩剧资源","name":"🌏韩剧","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key": "csp_Blidw" ,"name":"🐱动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
-],
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
