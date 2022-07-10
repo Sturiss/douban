@@ -1,6 +1,6 @@
 	
 	
-{  "spider":"asset://LionMovies/Jar/077.jar", 0
+{  "spider":"asset://LionMovies/Jar/077.jar",
 
 "sites": [
     {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
