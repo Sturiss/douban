@@ -1596,6 +1596,12 @@
 {"key": "csp_Bliyc" ,"name":"🐱演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blidw" ,"name":"🐱动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blixq" ,"name":"🐱戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},  
+{"key": "多多","name": "多多","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/from/ddzy/","playUrl": "json:http://qiqi.520say.cn/json/dd.php?url=","searchable": 1,"filterable": 1,"categories":[]},
+{"key": "旋风","name": "旋风[EXO]","type": 1,"api": "http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl": "json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","searchable": 1,"filterable": 1,"categories":[]},
+{"key":"极速","name":"极速","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+
+
+
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/LIBVIO.json"},
 {"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0}, 
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
