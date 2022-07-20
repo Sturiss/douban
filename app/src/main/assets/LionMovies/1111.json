@@ -4,7 +4,7 @@
 "spider":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA4.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
-
+ // "lives": [{ "group": "redirect","channels": [{"name": "redirect", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="]}]}],
 
 "sites":[
 {"key":"csp_Kunyu77"        ,"name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -27,6 +27,7 @@
 {"key":"spider_Ikan"       ,"name":"🐼爱看(SP)","type":3,"api":"spider_Ikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kmys"          ,"name":"🐞酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo"         ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"追剧喵"             ,"name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP"         ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Buka"          ,"name":"🐞真不卡📵","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
