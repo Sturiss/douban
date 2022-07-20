@@ -50,7 +50,7 @@
 {"key":"csp_Buka"          ,"name":"🐞真不卡📵","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan"        ,"name":"🐞低端影视📵","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DY1990"        ,"name":"🐞九零影视📵","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-  { "key": "csp_Bili", "name": "🅱哔哩自定义(SP)", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bilirch.json" }, 
+{ "key": "csp_Bili"      , "name": "🅱哔哩自定义(SP)", "type": 3, "api": "csp_BBB", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bilirch.json" }, 
 {"key":"csp_BBB"           ,"name":"🐞哔哩哔哩","type": 3,"api": "csp_BBB","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar/bili.json"},
 {"key": "csp_BBB"          ,"name":"🐞哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
 {"key":"csp_Bliyc"         ,"name":"🐞演唱会","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar/singers.json"},
