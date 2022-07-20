@@ -1,5 +1,21 @@
 {
   "classes": [
+    
+{"type_name":"搞笑","type_id":"搞笑"},
+{"type_name":"鬼畜","type_id":"鬼畜"},
+{"type_name":"Sports","type_id":"球星"},
+{"type_name":"戏曲","type_id":"戏曲"},
+{"type_name":"动物世界","type_id":"动物世界"},
+{"type_name":"假窗白噪音","type_id":"窗白噪音"},
+{"type_name":"相声小品","type_id":"相声小品"},
+{"type_name":"儿童","type_id":"儿童"},
+{"type_name":"演唱会","type_id":"演唱会"},
+{"type_name":"TVBOX","type_id":"TVBOX"},
+    
+    
+    
+    
+    
     {
       "type_name": "粤语",
       "type_id": "粤语歌曲"
