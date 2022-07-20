@@ -1,165 +1,45 @@
 {
   "classes": [
-    {
-      "type_name": "粤语",
-      "type_id": "粤语歌曲"
-    },
-    {
-      "type_name": "2022年热榜",
-      "type_id": "2022年热们歌曲"
-    },
-    {
-      "type_name": "经典老歌",
-      "type_id": "经典老歌"
-    },
-    {
-      "type_name": "古风歌曲",
-      "type_id": "古风歌曲"
-    },
-    {
-      "type_name": "闽南语歌曲",
-      "type_id": "闽南语歌曲"
-    },
-    {
-      "type_name": "DJ",
-      "type_id": "DJ歌曲"
-    },
-    {
-      "type_name": "网红翻唱",
-      "type_id": "网红翻唱歌曲"
-    },
-    {
-      "type_name": "韩国女团",
-      "type_id": "韩国女团演唱会"
-    },
-    {
-      "type_name": "L刘德华",
-      "type_id": "刘德华演唱会"
-    },
-    {
-      "type_name": "W伍佰",
-      "type_id": "伍佰演唱会"
-    },
-    {
-      "type_name": "Z张学友",
-      "type_id": "张学友演唱会"
-    },
-    {
-      "type_name": "L林志炫",
-      "type_id": "林志炫演唱会"
-    },
-    {
-      "type_name": "N雅尼",
-      "type_id": "雅尼演唱会"
-    },
-    {
-      "type_name": "T童安格",
-      "type_id": "童安格演唱会"
-    },
-    {
-      "type_name": "W王杰",
-      "type_id": "王杰演唱会"
-    },
-    {
-      "type_name": "X许巍",
-      "type_id": "许巍演唱会"
-    },
-    {
-      "type_name": "Y杨千嬅",
-      "type_id": "杨千嬅演唱会"
-    },
-    {
-      "type_name": "Z赵传",
-      "type_id": "赵传演唱会"
-    },
-    {
-      "type_name": "L黎明",
-      "type_id": "黎明演唱会"
-    },
-    {
-      "type_name": "Q齐秦",
-      "type_id": "齐秦演唱会"
-    },
-    {
-      "type_name": "C陈慧娴",
-      "type_id": "陈慧娴演唱会"
-    },
-    {
-      "type_name": "X席琳迪翁",
-      "type_id": "席琳迪翁演唱会"
-    },
-    {
-      "type_name": "G谷村新司",
-      "type_id": "谷村新司演唱会"
-    },
-    {
-      "type_name": "B坂井泉水",
-      "type_id": "坂井泉水演唱会"
-    },
-    {
-      "type_name": "Z中岛美雪",
-      "type_id": "中岛美雪演唱会"
-    },
-    {
-      "type_name": "C陈百强",
-      "type_id": "陈百强演唱会"
-    },
-    {
-      "type_name": "M孟庭苇",
-      "type_id": "孟庭苇演唱会"
-    },
-    {
-      "type_name": "L李知恩",
-      "type_id": "李知恩演唱会"
-    },
-    {
-      "type_name": "陈慧娴",
-      "type_id": "陈慧娴演唱会"
-    },
-    {
-      "type_name": "费玉清",
-      "type_id": "费玉清演唱会"
-    },
-    {
-      "type_name": "陈慧琳",
-      "type_id": "陈慧琳演唱会"
-    },
-    {
-      "type_name": "冷漠",
-      "type_id": "冷漠演唱会"
-    },
-    {
-      "type_name": "张信哲",
-      "type_id": "张信哲演唱会"
-    },
-    {
-      "type_name": "许嵩",
-      "type_id": "黄许嵩演唱会"
-    },
-    {
-      "type_name": "林忆莲",
-      "type_id": "林忆莲演唱会"
-    },
-    {
-      "type_name": "伍珂玥",
-      "type_id": "伍珂玥演唱会"
-    },
-    {
-      "type_name": "张碧晨",
-      "type_id": "张碧晨演唱会"
-    },
-    {
-      "type_name": "黄凯芹",
-      "type_id": "黄凯芹演唱会"
-    },
-    {
-      "type_name": "周慧敏",
-      "type_id": "周慧敏演唱会"
-    },
-    {
-      "type_name": "布兰妮",
-      "type_id": "布兰妮演唱会"
-    },
+    {      "type_name": "粤语",      "type_id": "粤语歌曲"    },
+    {      "type_name": "2022年热榜",      "type_id": "2022年热们歌曲"    },
+    {      "type_name": "经典老歌",      "type_id": "经典老歌"    },
+    {      "type_name": "古风歌曲",      "type_id": "古风歌曲"    },
+    {      "type_name": "闽南语歌曲",      "type_id": "闽南语歌曲"    },
+    {      "type_name": "DJ",      "type_id": "DJ歌曲"    },
+    {      "type_name": "网红翻唱",      "type_id": "网红翻唱歌曲"    },
+    {      "type_name": "韩国女团",      "type_id": "韩国女团演唱会"    },
+    {      "type_name": "L刘德华",      "type_id": "刘德华演唱会"    },
+    {      "type_name": "W伍佰",      "type_id": "伍佰演唱会"    },
+    {      "type_name": "Z张学友",      "type_id": "张学友演唱会"    },
+    {      "type_name": "L林志炫",      "type_id": "林志炫演唱会"    },
+    {      "type_name": "N雅尼",      "type_id": "雅尼演唱会"    },
+    {      "type_name": "T童安格",      "type_id": "童安格演唱会"    },
+    {      "type_name": "W王杰",      "type_id": "王杰演唱会"    },
+    {      "type_name": "X许巍",      "type_id": "许巍演唱会"    },
+    {      "type_name": "Y杨千嬅",      "type_id": "杨千嬅演唱会"    },
+    {      "type_name": "Z赵传",      "type_id": "赵传演唱会"    },
+    {      "type_name": "L黎明",      "type_id": "黎明演唱会"    },
+    {      "type_name": "Q齐秦",      "type_id": "齐秦演唱会"    },
+    {      "type_name": "C陈慧娴",      "type_id": "陈慧娴演唱会"    },
+    {      "type_name": "X席琳迪翁",      "type_id": "席琳迪翁演唱会"    },
+    {      "type_name": "G谷村新司",      "type_id": "谷村新司演唱会"    },
+    {      "type_name": "B坂井泉水",      "type_id": "坂井泉水演唱会"    },
+    {      "type_name": "Z中岛美雪",      "type_id": "中岛美雪演唱会"    },
+    {      "type_name": "C陈百强",      "type_id": "陈百强演唱会"    },
+    {      "type_name": "M孟庭苇",      "type_id": "孟庭苇演唱会"    },
+    {      "type_name": "L李知恩",      "type_id": "李知恩演唱会"    },
+    {      "type_name": "陈慧娴",      "type_id": "陈慧娴演唱会"    },
+    {      "type_name": "费玉清",      "type_id": "费玉清演唱会"    },
+    {      "type_name": "陈慧琳",      "type_id": "陈慧琳演唱会"    },
+    {      "type_name": "冷漠",      "type_id": "冷漠演唱会"    },
+    {      "type_name": "张信哲",      "type_id": "张信哲演唱会"    },
+    {      "type_name": "许嵩",      "type_id": "黄许嵩演唱会"    },
+    {      "type_name": "林忆莲",      "type_id": "林忆莲演唱会"    },
+    {      "type_name": "伍珂玥",      "type_id": "伍珂玥演唱会"    },
+    {      "type_name": "张碧晨",      "type_id": "张碧晨演唱会"    },
+    {      "type_name": "黄凯芹",      "type_id": "黄凯芹演唱会"    },
+    {      "type_name": "周慧敏",      "type_id": "周慧敏演唱会"    },
+    {      "type_name": "布兰妮",      "type_id": "布兰妮演唱会"    },
     {
       "type_name": "麦当娜",
       "type_id": "麦当娜演唱会"
@@ -280,10 +160,17 @@
       "type_name": "王琪",
       "type_id": "王琪歌曲"
     },
-    {
-      "type_name": "周深",
-      "type_id": "周深演唱会"
-    }
+    {      "type_name": "周深",      "type_id": "周深演唱会"    },
+{"type_name":"搞笑","type_id":"搞笑"},
+{"type_name":"鬼畜","type_id":"鬼畜"},
+{"type_name":"Sports","type_id":"球星"},
+{"type_name":"戏曲","type_id":"戏曲"},
+{"type_name":"动物世界","type_id":"动物世界"},
+{"type_name":"假窗白噪音","type_id":"窗白噪音"},
+{"type_name":"相声小品","type_id":"相声小品"},
+{"type_name":"儿童","type_id":"儿童"}，
+{"type_name":"演唱会","type_id":"演唱会"},
+{"type_name":"TVBOX","type_id":"TVBOX"}
   ],
   "filter": {
     "搞笑": [
