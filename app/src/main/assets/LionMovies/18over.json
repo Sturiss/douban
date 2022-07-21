@@ -23,18 +23,19 @@
 {"key":"*老鸭资源","name":"*老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
         
-{"key":"*爱操资源","name":"*爱操资源","type":1,"api":"https://aicaozy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*浪潮资源","name":"*浪潮资源","type":1,"api":"http://langchaozy11.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*酷豆资源","name":"*酷豆资源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*酷豆2","name":"*酷豆2","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+        {"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*万影色","name":"*万影色","type":1,"api":"https://wanying4.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*爱播资源","name":"*爱播资源","type":1,"api":"https://cj.apiabzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*淫水机资源","name":"*淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*白嫖资源","name":"*白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
+
+        
+        {"key":"*万影色","name":"*万影色","type":1,"api":"https://wanying4.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+        
+        {"key":"*爱播资源","name":"*爱播资源","type":1,"api":"https://cj.apiabzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+        
 {"key":"*小湿妹资源","name":"*小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*黄AV资源","name":"*黄AV资源","type":1,"api":"https://www.pgxdy.com/api/json.php","searchable":0,"quickSearch":0},
 {"key":"*大地资源","name":"*大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
