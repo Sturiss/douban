@@ -1,6 +1,6 @@
 	
 	
-{  "spider":"asset://LionMovies/Jar/077.jar",
+{  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0707.jar",
 
 "sites": [
 {"key":"csp_QQ","name":"腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
