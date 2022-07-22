@@ -120,19 +120,13 @@
       "name": "色窝",
       "type": 1,
       "api": "https://sewozyapi.com/api.php/provide/vod/",
+        "playUrl": "https://player.sewozyplayer.com/m3u8/?url=", 
+        // "api":“https://sewozyapi.com/api.php/provide/vod/?ac=list”
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "佳丽",
-      "name": "佳丽",
-      "type": 1,
-      "api": "http://www.jializyzapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+  
     {
       "key": "小湿妹",
       "name": "小湿妹",
@@ -171,15 +165,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "环亚",
-      "name": "环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+   
     {
       "key": "花椒",
       "name": "花椒",
@@ -189,16 +175,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "523",
-      "name": "523",
-      "type": 0,
-      "api": "https://caiji.523zyw.com/inc/seacmsapi.php",
-      "playUrl": "https://api.523zyw.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+   
     {
       "key": "探探",
       "name": "探探",
@@ -209,15 +186,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{
-      "key": "zmcj88",
-      "name": "字幕网资源",
-      "type": 0,
-      "api": "http://zmcj88.com/sapi?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "乐鱼",
       "name": "乐鱼",
@@ -290,15 +259,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "AVZY",
-      "name": "AVZY",
-      "type": 1,
-      "api": "http://m.7777688.com/inc/apijson.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+    
     {
       "key": "(18+)浪潮资源", 
       "name": "(18+)浪潮资源", "type": 1,
