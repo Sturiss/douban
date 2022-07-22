@@ -142,24 +142,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "香奶儿",
-      "name": "香奶儿",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "鲍鱼",
-      "name": "鲍鱼",
-      "type": 0,
-      "api": "http://caiji26.com/home/cjapi/p0g8/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
     {
       "key": "咪咪",
       "name": "咪咪",
