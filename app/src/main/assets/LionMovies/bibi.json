@@ -13,7 +13,7 @@
 "sites":[
 {"key":"csp_Kunyu77"        ,"name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360"                ,"name":"🐞360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-  {"key": "csp_BBB"          ,"name":"🅱️哔哩自定义","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bilirch.json"},
+{"key": "csp_BBB"          ,"name":"🅱️哔哩自定义","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bilirch.json"},
 
 //{"key":"csp_QQ"             ,"name":"🐞腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_MGTV"           ,"name":"🐞芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
@@ -32,8 +32,8 @@
 {"key":"小宝影院"           ,"name":"🥒小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101"             ,"name":"🥒If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"低端影视"           ,"name":"🥒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_hsck"          ,"name":"H1(SP)","type": 3,"api":"csp_hsck","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_hsck1"         ,"name":"H2(SP)","type": 3,"api":"csp_hsck1","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"csp_hsck"          ,"name":"H1(SP)","type": 3,"api":"csp_hsck","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"csp_hsck1"         ,"name":"H2(SP)","type": 3,"api":"csp_hsck1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kmys"        ,"name": "🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_DiDuan"      ,"name":"🐞低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider"     ,"name":"🐞美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
@@ -84,7 +84,7 @@
 {"key":"追剧喵"            ,"name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lib"             ,"name": "🐞Libvio", "type": 3,  "api": "csp_Lib", "searchable": 0, "quickSearch": 1, "filterable": 1 },
 {"key": "Nfyun"           ,"name": "🐞Nf云", "type": 3, "api": "csp_Nfyun",  "searchable": 1, "quickSearch": 1,"filterable": 1 },
-{"key":"ASMR"             ,"name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
+//{"key":"ASMR"             ,"name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"9E03"              ,"name":"🎐9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"spider_Bttoo"      ,"name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AliPanSou"     ,"name":"🐾喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
