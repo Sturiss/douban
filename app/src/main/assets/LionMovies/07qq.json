@@ -4,8 +4,6 @@
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
 
 "sites":[
-{"key":"csp_Kunyu77"        ,"name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360"                ,"name":"🐞360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ"             ,"name":"🐞腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_MGTV"           ,"name":"🐞芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Tkys"          , "name": "天空影视", "type": 3, "api": "csp_Tkys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
