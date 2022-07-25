@@ -48,7 +48,8 @@
 {"key":"csp_xpath___动漫巴士","name":"🤖动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/dm84.json"},
 {"key":"AliPS","name":"🔍阿狸盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"23729bd027c1455aac9f09429a24cd01"},
 {"key":"FindZY","name":"🗂️找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"23729bd027c1455aac9f09429a24cd01"},
-
+{"key": "开麦K歌搜人","name":"开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"开麦K歌搜歌","name":"开麦K歌搜歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"23729bd027c1455aac9f09429a24cd01"},
 {"key":"更多","name":"🔞更多接口及接口修复更新添加微信：“rcgold”获取","type":1,"api":"","searchable":0,"quickSearch":0}
 
