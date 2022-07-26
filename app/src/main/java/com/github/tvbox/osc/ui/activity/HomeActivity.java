@@ -204,9 +204,15 @@ public class HomeActivity extends BaseActivity {
     
 
     private void initData() {        
-
-        
-        
+      SourceBean home = Apiconfig.get().getHomeSourceBean();
+       If (Home!= null && home.getname() != null && !home.getname().isempty()){
+          if (home.getname()=="TVBOX"){
+               tvname.settext(home.getname());
+       }
+           else {
+                 tvname.setText( "TVBOX >>" +  home.getname());
+             }
+       } 
         
         if (dataInitOk && jarInitOk) {
             showLoading();
