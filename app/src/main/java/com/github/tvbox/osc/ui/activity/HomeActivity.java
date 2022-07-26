@@ -199,11 +199,27 @@ public class HomeActivity extends BaseActivity {
 
     private boolean dataInitOk = false;
     private boolean jarInitOk = false;
+    
+    
+    
 
-    private void initData() {
+    private void initData() {        
+      sourcebean home = Apiconfig.get().getHomeSourceBean();
+       IF (Home!=null && home.getname()!=null && !home.getname().isempty()){
+    if (home.getname()=="TVBOX"){
+        tvname.settext(home.getname());
+    }
+    else {
+        tvname.settext("TVBOX">>+home.getname());
+    }
+} 
+        
+        
+        
+        
         if (dataInitOk && jarInitOk) {
             showLoading();
-                          sourceViewModel.getSort(ApiConfig.get().getHomeSourceBean().getKey());
+            sourceViewModel.getSort(ApiConfig.get().getHomeSourceBean().getKey());
    ((TextView) findViewById(R.id.tvName)).setText(ApiConfig.get().getHomeSourceBean().getName());  //首页显示源站点名称。
             if (hasPermission(Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
                 LOG.e("有");
@@ -212,6 +228,7 @@ public class HomeActivity extends BaseActivity {
             }
             return;
         }
+        
         showLoading();
         if (dataInitOk && !jarInitOk) {
             if (!ApiConfig.get().getSpider().isEmpty()) {
