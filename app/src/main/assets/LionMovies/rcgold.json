@@ -72,12 +72,10 @@
 {    "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {    "name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {    "name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},	
-
-{    "name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=" },
 {    "name":"fuqi",    "type":1,    "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url=" },
 {    "name":"yemu",    "type":0,    "url":"https://www.yemu.xyz/?url="    },
-{    "name":"gai",    "type":0,    "url":"https://www.gai4.com/?url="    },
-{    "name":"okjx",    "type":0,    "url":"https://okjx.cc/?url="    },
+
+
 
 	  
 	  
