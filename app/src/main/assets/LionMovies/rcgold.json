@@ -65,25 +65,24 @@
 
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
-	  
-    {    "name": "ceshi",    "type": 1,    "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}},
-    {    "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-    {    "name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=" },
-    {    "name":"fuqi",    "type":1,    "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url=" },
-    {    "name":"yemu",    "type":0,    "url":"https://www.yemu.xyz/?url="    },
-    {    "name":"gai",    "type":0,    "url":"https://www.gai4.com/?url="    },
-    {    "name":"okjx",    "type":0,    "url":"https://okjx.cc/?url="    },
+{"name":"Json轮询","type":2,"url":"Sequence"},	  
+{    "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{    "name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{    "name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},	
+
+{    "name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=" },
+{    "name":"fuqi",    "type":1,    "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url=" },
+{    "name":"yemu",    "type":0,    "url":"https://www.yemu.xyz/?url="    },
+{    "name":"gai",    "type":0,    "url":"https://www.gai4.com/?url="    },
+{    "name":"okjx",    "type":0,    "url":"https://okjx.cc/?url="    },
 
 	  
 	  
 	  
 	  
 	  
-{"name":"ok1","type":0,"url":"https://okjx.cc/?url="},
-{"name":"ok2","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
-{"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},	  
+
+  
 	  
 {"name": "群鑫影视","type": 1,"url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=651075&key=aehuDFGIJSVWX24589&url=","ext": {"flag": ["youku","优酷",	"qiyi",	"爱奇艺",	"奇艺","qq","腾讯"]}}
 
