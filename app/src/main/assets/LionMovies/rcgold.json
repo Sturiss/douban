@@ -1,6 +1,6 @@
-{//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/20220724.jar",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/20220724.jar",
  
- "spider":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0728ts.jar",
+ //"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0728ts.jar",
  
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly92aXAuZnVxaXpoaXNoaS5jb20vdHZib3gvbGl2ZS50eHQ="]}]}],
 "sites":[
