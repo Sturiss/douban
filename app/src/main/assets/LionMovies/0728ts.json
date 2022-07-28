@@ -1,6 +1,9 @@
 
 {
     "sites": [
+        
+        {"key":"293视频" ,"name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0727.jar"},
+
         {
             "key": "csp_77",
             "name": "酷云七七(爬虫)",
