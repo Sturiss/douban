@@ -7,7 +7,6 @@
 "sites":[
 {"key":"csp_77"             ,"name":"👍七七（稳）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider"         ,"name":"📽️360影视（官）","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"360_spider"         ,"name":"📽️361影视（官）","api":"csp_SP361","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
 {"key":"小苹果"              ,"name":"🍎小 苹 果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频"             ,"name":"🐞293视频1","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://shuyuan.miaogongzi.net/shuyuan/1658535854.txt"},
