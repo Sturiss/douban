@@ -7,7 +7,8 @@
 {"key":"csp_77"             ,"name":"👍七七（稳）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider"         ,"name":"📽️360影视（官）","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果"              ,"name":"🍎小 苹 果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"293视频"             ,"name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0727.jar"},
+{"key":"293视频"             ,"name":"🐞293视频1","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://shuyuan.miaogongzi.net/shuyuan/1658535854.txt"},
+{"key":"293视频"             ,"name":"🐞293视频2","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0727.jar"},
 {"key":"csp_biubiu_555电影"  ,"name":"5️⃣5️555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/555.json"},
 {"key":"csp_Wmkk"           ,"name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0727.jar"},
 {"key":"Gitcafe"            ,"name":"🗞️小纸条（高清）","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"23729bd027c1455aac9f09429a24cd01"},
@@ -59,6 +60,7 @@
 {"key":"csp_xpath___动漫巴士"       ,"name":"🤖动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/dm84.json"},
 {"key": "开麦K歌搜人"               ,"name":"开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"开麦K歌搜歌"                ,"name":"开麦K歌搜歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"push_agent"                ,"name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 	
 {"key":"AliPS"                     ,"name":"🔍阿狸盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"23729bd027c1455aac9f09429a24cd01"},
 {"key":"FindZY"                    ,"name":"🗂️找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"23729bd027c1455aac9f09429a24cd01"},
