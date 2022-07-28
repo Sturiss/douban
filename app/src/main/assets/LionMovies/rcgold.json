@@ -171,27 +171,7 @@
 				]
 			}
 		},
-		{
-			"name": "VIP3",
-			"type": 1,
-			"url": "http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"youku",
-					"优酷",
-					"qiyi",
-					"iqiyi",
-					"爱奇艺",
-					"奇艺"
-				]
-			}
-		},
+		
 		{
 			"name": "急速6",
 			"type": 1,
