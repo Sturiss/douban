@@ -244,8 +244,7 @@
      "searchable":1,
       "quickSearch":1,
      "filterable":1,
-      "ext":"",
-	  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/qj0728.jar"
+      "ext":""
     },
     {
       "key": "csp_hbys",
