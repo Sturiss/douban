@@ -13,26 +13,8 @@
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1, "spider": "jar1"},
 {"key":"csp_Kuaikan"       ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1, "spider": "jar3"},
 
-{
-      "key": "csp_QQ",
-      "name": "🐧腾讯(SP)",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1, 
-      "spider": "jar2"
-    },
-    {
-      "key": "csp_MGTV",
-      "name": "🥭芒果(SP)",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	   "spider": "jar2"
-    },
+{      "key": "csp_QQ",      "name": "🐧腾讯(SP)",      "type": 3,      "api": "csp_QQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,       "spider": "jar2" },
+{      "key": "csp_MGTV",      "name": "🥭芒果(SP)",      "type": 3,      "api": "csp_MGTV",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,	   "spider": "jar2"},
 
 
 
