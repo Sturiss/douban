@@ -1,0 +1,8 @@
+
+    {"name":"星辰解析","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
+    {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
+  {"name":"人迷解析","type":0,"url":"https://jx.blbo.cc:4433/?url="},
+    {"name":"乐多解析","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},  
+
+    {"name": "必成解析","type": 1,"url": " https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url=","ext":{"flag": ["qq","qiyi","youku","pptv","le","sohu","bilibili","xigua","1905"]}},
+ 
