@@ -866,8 +866,9 @@
     },
     
     {"name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
+    {"name": "tvjx","type":1,"url": "http://42.157.129.28:5612/tvjx/?url="},
     
-    
+   
     
     {
       "name": "M117解析",
