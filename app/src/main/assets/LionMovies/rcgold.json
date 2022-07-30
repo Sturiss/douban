@@ -862,6 +862,11 @@
         ]
       }
     },
+    
+    {"name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
+    
+    
+    
     {
       "name": "M117解析",
       "type": 0,
