@@ -238,7 +238,7 @@
     },
     {
       "key": "csp_AliPanSou",
-      "name": "📚喵狸盘搜(SP)",
+      "name": "📚喵狸盘搜1(SP)",
       "type": 3,
       "api": "csp_AliPanSou",
       "searchable": 1,
@@ -255,6 +255,40 @@
       "filterable": 1,
       "ext": "ad3c78559a494bde814f1a6c8c40db51"
     },
+    
+    
+     {
+      "key": "AliPS",
+      "name": "盘搜",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ad3c78559a494bde814f1a6c8c40db51"
+    },
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
       "key": "push_agent",
       "name": "📤推送",
