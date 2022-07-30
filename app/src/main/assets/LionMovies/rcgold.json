@@ -772,6 +772,8 @@
         ]
       }
     },
+    
+    {"name":"爱酷解析","type":1,"url":"https://json.iku.cool/api/?key=bcZxWfy3h241UpPSeq&url=","ext":{"flag":["youku","优酷","优酷视频","qq","腾讯视频","腾讯","bilibili","哔哩哔哩","哔哩","sohu","搜狐","letv","pptv","芒果","芒果tv","imgo"]}},
     {
       "name": "M3U8TV解析",
       "type": 0,
