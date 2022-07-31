@@ -630,5 +630,6 @@
     ],
     
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider":"https://gitea.com/dxa/1/raw/branch/main/jar/0731.jar;md5;7eacb357cf27abce92ed497367221e5a"
+    //"spider":"https://gitea.com/dxa/1/raw/branch/main/jar/0731.jar;md5;7eacb357cf27abce92ed497367221e5a"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0731.jar;md5;7eacb357cf27abce92ed497367221e5a"
 }
