@@ -420,7 +420,9 @@ public class DetailActivity extends BaseActivity {
             sourceKey = key;
             showLoading();
             if (sourceKey.equals("豆瓣")) {
-                sourceViewModel.getDoubanDetail(sourceKey, vodId);
+          sourceViewModel.getDoubanDetail(sourceKey, vodId);
+                llPlayerPlace.setVisibility(View.GONE);
+                ivThumb.setVisibility(View.VISIBLE);
             }else{
                 sourceViewModel.getDetail(sourceKey, vodId);
             }
