@@ -19,7 +19,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"Smdyy_spider","name":"神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+   // {"key":"Smdyy_spider","name":"神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
      {
       "key": "KanSJ_spider",
@@ -57,7 +57,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "csp_QQ",
       "name": "🐧腾讯(SP)",
       "type": 3,
