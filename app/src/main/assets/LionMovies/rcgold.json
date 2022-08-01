@@ -20,7 +20,6 @@
       "filterable": 1
     },
     {"key":"Smdyy_spider","name":"神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-
      {
       "key": "KanSJ_spider",
       "name": "🛰️看视界",
@@ -53,6 +52,15 @@
       "name": "🍱七七(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "293视频",
+      "name": "🗼293视频",
+      "type": 3,
+      "api": "csp_SP293",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -93,7 +101,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+   {
       "key": "csp_Kmys",
       "name": "🐱酷猫(SP)",
       "type": 3,
@@ -240,15 +248,7 @@
       "filterable": 1,
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
-    {
-      "key": "293视频",
-      "name": "🗼293视频",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "csp_hbys",
       "name": "💈简影(SP)",
@@ -267,37 +267,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "csp_AliPanSou",
-      "name": "📚喵狸盘搜1(SP)",
-      "type": 3,
-      "api": "csp_AliPanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zhaozy",
-      "name": "🗃找资源(SP)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
-    },
-    
-    
-     {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
     },
    
    {
@@ -330,15 +299,7 @@
     
     
     
-    {
-      "key": "push_agent",
-      "name": "📤推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+ 
     {
       "key": "csp_Blixs",
       "name": "🎙相声(SP)",
@@ -694,6 +655,7 @@
       "filterable": 1,
       "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
     },
+    
     {
       "key": "XYUI",
       "name": "🗼XYUI(优)",
@@ -703,6 +665,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    
     {
       "key": "csp_AppYsV2_美剧范",
       "name": "🗼美剧范",
@@ -742,18 +705,10 @@
       "filterable": 1,
       "ext": "ad3c78559a494bde814f1a6c8c40db51"
     },
+   
     {
       "key": "push_agent",
       "name": "📤推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
