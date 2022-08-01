@@ -2,7 +2,7 @@
   "sites": [
  {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
- {"key":"闪电","name":"🏀闪电","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+ {"key":"闪电","name":"🏀闪电","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"爱奇艺","name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴",,"科技","健康"]},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"categories":["少儿","电视剧","电影","动漫","综艺","纪录片","新闻","音乐","原创"]},
