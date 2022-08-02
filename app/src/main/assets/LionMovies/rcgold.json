@@ -18,6 +18,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key": "csp_BBB","name":"🅱️哔哩自定义","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bilirch.json"},
     {
       "key": "csp_hbys",
       "name": "📺简影(SP)",
