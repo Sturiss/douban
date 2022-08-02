@@ -69,7 +69,7 @@
     },
     {
       "key": "Smdyy_spider",
-      "name": "神马影视",
+      "name": "🧲神马影视",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
@@ -234,7 +234,7 @@
     },
     {
       "key": "csp_Blixs",
-      "name": "🎙相声(SP)",
+      "name": "🧲相声(SP)",
       "type": 3,
       "api": "csp_Blixs",
       "searchable": 1,
@@ -243,7 +243,7 @@
     },
     {
       "key": "csp_Blixq",
-      "name": "🎙戏曲(SP)",
+      "name": "🧲戏曲(SP)",
       "type": 3,
       "api": "csp_Blixq",
       "searchable": 1,
@@ -252,7 +252,7 @@
     },
     {
       "key": "csp_Bliyc",
-      "name": "🎙演唱会(SP)",
+      "name": "🧲演唱会(SP)",
       "type": 3,
       "api": "csp_Bliyc",
       "searchable": 1,
@@ -270,7 +270,7 @@
     },
     {
       "key": "csp_Blijc",
-      "name": "🖼假窗·氛围·白噪声",
+      "name": "🧲🖼假窗·氛围·白噪声",
       "type": 3,
       "api": "csp_Blijc",
       "searchable": 0,
@@ -485,7 +485,7 @@
     },
     {
       "key": "csp_找资源",
-      "name": "找资源(SP)搜索",
+      "name": "🧲找资源(SP)搜索",
       "type": 3,
       "api": "csp_FindZY",
       "searchable": 1,
