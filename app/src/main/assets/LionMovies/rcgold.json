@@ -139,43 +139,7 @@
         "纪录片"
       ]
     },
-    {
-      "key": "ayuan",
-      "name": "🚂阿远采集",
-      "type": 0,
-      "api": "http://jx4.xyui.top:7001/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "会员采集",
-      "name": "🗼南府采集",
-      "type": 1,
-      "api": "http://caiji.nxflv.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "天堂资源",
-      "name": "🗼天堂资源",
-      "type": 1,
-      "api": "http://vipmv.cc/api.php/provide/vod/",
-      "playUrl": "parse:parwix1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_xml___小猫咪",
-      "name": "🗼小 猫 咪",
-      "type": 1,
-      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+  
     {
       "key": "m3u8资源",
       "name": "🗼m3u8资源",
@@ -240,57 +204,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "51看剧",
-      "name": "🗼51看剧",
-      "type": 0,
-      "api": "http://www.51kanju.cn/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "想看资源",
-      "name": "🗼想看资源",
-      "type": 0,
-      "api": "https://m3u8.xiangkanapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-  
-    {
-      "key": "千寻影视",
-      "name": "🗼千寻影视",
-      "type": 1,
-      "api": "http://wy.dqyhg.cn/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "电影",
-        "综艺",
-        "动漫",
-        "连续剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "体育赛事",
-        "格斗摔跤",
-        "赛车",
-        "网球",
-        "篮球",
-        "足球"
-      ]
-    },
+ 
     {
       "key": "启灵资源",
       "name": "🗼启灵资源",
@@ -374,15 +288,7 @@
       "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
     },
     
-    {
-      "key": "XYUI",
-      "name": "🗼XYUI(优)",
-      "type": 1,
-      "api": "http://jx4.xyui.top:7001/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+ 
     
  
     {
