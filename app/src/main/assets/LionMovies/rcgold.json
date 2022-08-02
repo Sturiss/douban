@@ -4,7 +4,6 @@
  {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_hbys","name":"📺简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 {"key":"csp_Wmkk","name":"🔭完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
- {"key":"闪电","name":"🏀闪电","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"293视频","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 
 {"key":"爱奇艺","name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴",,"科技",
@@ -30,13 +29,8 @@
 {"key":"csp_Kuaikan","name":"🎈快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长影视(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys","name":"😾酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_DiDuan","name":"🌀低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Cokemv","name":"📺Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🦉在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Auete","name":"🌎Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
 
     { "key": "csp_SP360",  "name": "🧲360(SP)",      "type": 3,      "api": "csp_SP360",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
@@ -144,33 +138,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Bttoo",
-      "name": "🪢两个BT(SP)",
-      "type": 3,
-      "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Auete",
-      "name": "🧵Auete(SP)",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "🧶Cokemv(SP)",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
+  
     {
       "key": "csp_DY1990",
       "name": "📺1990电影(SP)",
@@ -189,15 +158,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-      {
-      "key": "csp_DiDuan",
-      "name": "⤵️低端影视",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    
     
     
     {
@@ -230,15 +191,7 @@
       "filterable": 1,
       "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
     },
-    {
-      "key": "csp_GitCafe",
-      "name": "🐞阿里纸条",
-      "type": 3,
-      "api": "csp_GitCafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    {"key": "csp_GitCafe", "name": "🐞阿里纸条", "type": 3, "api": "csp_GitCafe",   "searchable": 1,      "quickSearch": 1,      "filterable": 0},
    
    {
       "key": "csp_biubiu_555电影",
@@ -316,25 +269,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "csp_Bliqx",
-      "name": "🏀球星(SP)",
-      "type": 3,
-      "api": "csp_Bliqx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_appys_美剧虫",
-      "name": "🚂美剧虫(V1)",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://meijuchong.com/api.php/v1.vod"
-    },
+   
     {
       "key": "诺讯资源",
       "name": "🗼诺讯资源",
@@ -486,24 +421,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "多多资源",
-      "name": "🔪多多资源(切)",
-      "type": 1,
-      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "金鹰资源",
-      "name": "🔪金鹰资源(切)",
-      "type": 1,
-      "api": "http://jinyingzy.com/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+  
     {
       "key": "千寻影视",
       "name": "🗼千寻影视",
@@ -607,15 +525,7 @@
         "纪录片"
       ]
     },
-    {
-      "key": "多多",
-      "name": "🗼多多",
-      "type": 1,
-      "api": "https://a.7dyu.cn/api.php/provide/vod/from/ddzy/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "300看世界",
       "name": "🗼300看世界",
@@ -637,16 +547,7 @@
       "filterable": 0
     },
     
-    {
-      "key": "csp_AppYsV2_美剧范",
-      "name": "🗼美剧范",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ttzmz.net/api.php/v1.vod"
-    },
+ 
     {
       "key": "csp_appysv2_爱酷影视",
       "name": "🗼爱酷影视",
