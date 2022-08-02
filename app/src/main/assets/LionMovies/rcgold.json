@@ -303,17 +303,30 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    {"key": "zhaozy", "name": "🗃找资源(SP)", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "quickSearch": 1,  "filterable": 1, "ext": "ad3c78559a494bde814f1a6c8c40db51"    },
+    {"key": "csp_找资源","name": "找资源(SP)搜索","type": 3, "api": "csp_FindZY",   "searchable": 1,  "quickSearch": 1, "filterable": 1 },
+    
     {
-      "key": "zhaozy",
-      "name": "🗃找资源(SP)",
+      "key": "csp_xpath_音范丝磁力",
+      "name": "🐛音范丝磁力(XP)",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
+      "ext": "https://gitea.com/xzbdfw/xxbox/raw/branch/main/MaooXP/yinfans.json"
     },
-   
+    {
+      "key": "csp_xpath_哔嘀磁力",
+      "name": "🐛哔嘀磁力(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitea.com/xzbdfw/xxbox/raw/branch/main/MaooXP/biditd.json"
+    },
+    
     {
       "key": "push_agent",
       "name": "📤推送",
