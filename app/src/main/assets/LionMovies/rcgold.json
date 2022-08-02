@@ -474,16 +474,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "zhaozy",
-      "name": "🗃找资源(SP)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "27b06d5221a24199b15f2e573d847430"
-    },
+   // {"key": "zhaozy","name": "🗃找资源(SP)","type": 3, "api": "csp_Zhaozy", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "27b06d5221a24199b15f2e573d847430"    },
     {
       "key": "csp_找资源",
       "name": "🧲找资源(SP)搜索",
