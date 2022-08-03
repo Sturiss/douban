@@ -9,6 +9,18 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {"key":"优众影视","name":"优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
+
+    {
+            "key": "csp_appysv2_优众影视",
+            "name": "优众影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://61.183.41.149:8090/lvdou_api.php/v1.vod"
+        },
     {
       "key": "LiteApple",
       "name": "🍎小苹果(SP)",
