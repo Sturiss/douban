@@ -516,7 +516,7 @@
     }
   ],
   
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vU3R1cmlzcy9kb3ViYW4vbWFpbi9hcHAvc3JjL21haW4vYXNzZXRzL0xpb25Nb3ZpZXMvbGl2ZS9saXZlLnR4dA=="]}]}],
  
   "parses": [
     {
