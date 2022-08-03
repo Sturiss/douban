@@ -30,6 +30,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8 
 澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8 
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8 
+
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
@@ -40,6 +41,25 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 
 星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
 纬来戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8 
+TVBS新聞台,rtmp://59.124.75.138/sat/tv551
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+三立綜合[1280•720],http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+东森美洲台,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+中視,rtmp://59.124.75.138/sat/tv091
+中視經典[1280•720],http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亞洲旅遊[1280•720],http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+台視,rtmp://59.124.75.138/sat/tv071
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
+
+
 
 💝央、卫标清,#genre#
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
