@@ -1,7 +1,8 @@
 {
   "classes": [
 
-  
+    {      "type_name": "新概念英语动画",      "type_id": "新概念英语动画视频"      },
+    {      "type_name": "动物城堡",       "type_id": "动物城堡"        },
    {      "type_name": "2022MV",          "type_id": "2022MV"    },
     {      "type_name": "ps",           "type_id": "ps"           },
     {      "type_name": "编程教学",      "type_id": "编程教学"     },
