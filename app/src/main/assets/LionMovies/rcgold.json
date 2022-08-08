@@ -1223,5 +1223,11 @@
   ],
   "wallpaper": "http://css.lc/api.php",
   //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/ggtv0805.jar"
+  "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],
+"url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},
+"response": {"result": "$.data","data": [
+{"key": "name","value": "title"},
+{"key": "note","value": "rate"},
+{"key": "pic","value": "cover"}]}}],
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/xxoo804.jar;md5;0085cf644b3b135caadb8cbd4b3ed485"
 }
