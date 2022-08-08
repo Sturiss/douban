@@ -1,10 +1,8 @@
 {
   "classes": [
 
-    {      "type_name": "新概念英语",      "type_id": "新概念英语动画视频"      },
-    {      "type_name": "动物城堡",       "type_id": "动物城堡动画"        },
+    {      "type_name": "新概念英语",      "type_id": "新概念英语动画视频" },
     {      "type_name": "英语启蒙",       "type_id": "英语启蒙动画"        },
-    {      "type_name": "初二物理",       "type_id": "杜春雨 初二"        },
     {      "type_name": "2022MV",          "type_id": "2022MV"    },
     {      "type_name": "ps",           "type_id": "ps"           },
     {      "type_name": "编程教学",      "type_id": "编程教学"     },
