@@ -8,9 +8,22 @@
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
-
-
-
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
+凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰资讯,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
+凤凰资讯,http://27.47.68.16:808/hls/33/index.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
@@ -18,12 +31,16 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
+凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3?zgangd
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8?zgangd
+凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
-J2,http://120.84.96.152:808/hls/86/index.m3u8 
+TVB J2 HD,http://120.84.96.152:808/hls/86/index.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8 
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8 
