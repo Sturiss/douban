@@ -5,15 +5,9 @@
     {      "type_name": "英语启蒙",       "type_id": "英语启蒙动画"        },
     {      "type_name": "2022MV",          "type_id": "2022MV"    },
     {      "type_name": "ps",           "type_id": "ps"           },
-    {      "type_name": "编程教学",      "type_id": "编程教学"     },
     {      "type_name": "Office",       "type_id": "office"       },
     {      "type_name": "Windows",      "type_id": "Windows"      },
-    {      "type_name": "phython",      "type_id": "phython"      },
     {      "type_name": "招投标",       "type_id": "招投标"        },
-
-    {      "type_name": "2022中文DJ",   "type_id": "2022中文DJ"    },
-    {      "type_name": "2022英文DJ",   "type_id": "2022英文DJ"    },
-  
    
    {      "type_name": "搞笑",          "type_id": "搞笑"         },
     {      "type_name": "鬼畜",          "type_id": "鬼畜"         },
@@ -21,47 +15,18 @@
     {      "type_name": "戏曲",          "type_id": "戏曲"         },
     {      "type_name": "演唱会",        "type_id": "演唱会"       },
     {      "type_name": "动物世界",      "type_id": "动物世界"     },
-    {      "type_name": "假窗白噪音",    "type_id": "窗白噪音"     },
     {      "type_name": "相声小品",      "type_id": "相声小品"     },
-    {      "type_name": "儿童",          "type_id": "儿童"        },
 
-
-
-
-
-
-
-    {      "type_name": "粤语",          "type_id": "粤语歌曲"    },
+    {      "type_name": "粤语歌曲",          "type_id": "粤语歌曲"    },
     {      "type_name": "2022年热榜",    "type_id": "2022年热们歌曲" },
-    {
-      "type_name": "经典老歌",
-      "type_id": "经典老歌"
-    },
-    {
-      "type_name": "古风歌曲",
-      "type_id": "古风歌曲"
-    },
-    {
-      "type_name": "闽南语歌曲",
-      "type_id": "闽南语歌曲"
-    },
-    {
-      "type_name": "DJ",
-      "type_id": "DJ歌曲"
-    },
-    {
-      "type_name": "网红翻唱",
-      "type_id": "网红翻唱歌曲"
-    },
-    {
-      "type_name": "韩国女团",
-      "type_id": "韩国女团演唱会"
-    },
+    {      "type_name": "经典老歌",      "type_id": "经典老歌"    },
+    {      "type_name": "古风歌曲",      "type_id": "古风歌曲"    },
+    {      "type_name": "闽南语歌曲",      "type_id": "闽南语歌曲"    },
+    {      "type_name": "DJ",      "type_id": "DJ歌曲"    },
+    {      "type_name": "网红翻唱",      "type_id": "网红翻唱歌曲"    },
+    {      "type_name": "韩国女团",      "type_id": "韩国女团演唱会"    },
    
-    {
-      "type_name": "周深",
-      "type_id": "周深演唱会"
-    }
+    {      "type_name": "周深",      "type_id": "周深演唱会"    }
   ],
 
 
