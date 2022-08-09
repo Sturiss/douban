@@ -9,6 +9,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "csp_xpathmacfilter_chinady",
+      "name": "中国电影(XPF)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/中国电影.json"
+    },    
+        
     {"key":"优众影视","name":"优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
     {
       "key": "LiteApple",
