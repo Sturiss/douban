@@ -29,7 +29,7 @@
 {"key": "csp_555电影",        "name": "5️⃣555电影", "type": 3,"api": "csp_XBiubiu", "searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sahuidalang/xbiubiu/main/MaooXB/555dy.json" },   
 {"key": "csp_BBB",           "name":"🅱️哔哩自定义","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bilirch.json"},
-{"key": "csp_chinady",       "name": "🔍中国电影","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/中国电影.json"    },    
+{"key": "csp_chinady",       "name": "🔍中国电影","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/chinady.json"    },    
 {"key":"mtv_pc_小纸条源",   "name":"🔥小纸条源","type":3,"api":"csp_GitCafe"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_阿里盘搜",   "name":"🔍阿里盘搜","type":3,"api":"csp_AliPanSou"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_找资源搜",   "name":"🔍找资源搜","type":3,"api":"csp_FindZY"        ,"searchable":1,"quickSearch":1,"filterable":1},
