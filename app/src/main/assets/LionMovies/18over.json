@@ -294,7 +294,10 @@
       "name": "奶插",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
-      "playUrl": "https://jiexi.naichaapi.com/?url=",
+      //"playUrl": "https://jiexi.naichaapi.com/?url=",
+        "playUrl": "https://jx.blbo.cc:4433/?url=",
+
+
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
