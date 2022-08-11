@@ -16,6 +16,7 @@
 {"key":"mtv_pc_完美看看","name":"🔥完美看看","type":3,"api":"csp_Wmkk"          ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"mtv_pc_三亿影视","name":"🔥三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"mtv_pc_亿看影视","name":"🔥易看影视","type":3,"api":"csp_Ekan"          ,"filterable":1,"quickSearch":1,"searchable":1}, 
+{"key": "zp116",  "name": "泡芙资源",    "type": 0, "api": "http://zmcj88.com/api?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0},
 {"key":"csp_ysv2_amhys","name":"🌭爱麻花(SP)","type":3,"api":"csp_AppYsV2", "searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},    
 {"key": "csp_xpath_cls","name": "🍭磁力搜索(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/cls.json"},    
 {"key": "csp_xpath_348z","name": "🛰️348电影(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/348z.json"},
