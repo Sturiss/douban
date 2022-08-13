@@ -27,8 +27,7 @@
     },
     
     
-    
-{"key":"csp_xb","name":"哔滴(XB)", "type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bidi.json"},
+
 { "key": "293视频", "name": "🔥293视频(SP)", "type": 3, "api": "csp_SP293", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0805.jar"  },
 //{"key":"mtv_pc_293视频" ,   "name":"🔥293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Smdyy_spider",      "name": "🧲神马影视",      "type": 3,      "api": "csp_Smdyy",      "searchable": 1,      "quickSearch": 1,      "filterable": 1  },
