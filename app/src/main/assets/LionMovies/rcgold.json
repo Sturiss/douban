@@ -27,7 +27,6 @@
     },
     
     
-{"key":"csp_biubiu_F7好看剧","name":"🥒F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,    
     
 {"key":"csp_xb","name":"哔滴(XB)", "type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bidi.json"},
 { "key": "293视频", "name": "🔥293视频(SP)", "type": 3, "api": "csp_SP293", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0805.jar"  },
