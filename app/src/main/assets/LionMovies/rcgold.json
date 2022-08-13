@@ -25,7 +25,7 @@
 //{"key":"csp_Juhuang","name":"🤗剧荒(SP)", "type":3, "api":"csp_Juhuang", "searchable":1,"quickSearch":1, "filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/juhuang1.jar"  },
 {"key": "csp_xpath_1024","name": "🐛1024磁搜(XP)", "type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ftyyy.tk/MeowXP/1024bt.json"
     },
-
+{"key":"csp_xpath_hyingku","name":"🤗嗨影库(XP)", "type":3, "api":"csp_XPath", "searchable":1,"quickSearch":1, "filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bidi.json"},
 { "key": "293视频", "name": "🔥293视频(SP)", "type": 3, "api": "csp_SP293", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0805.jar"  },
 //{"key":"mtv_pc_293视频" ,   "name":"🔥293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Smdyy_spider",      "name": "🧲神马影视",      "type": 3,      "api": "csp_Smdyy",      "searchable": 1,      "quickSearch": 1,      "filterable": 1  },
