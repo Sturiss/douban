@@ -23,8 +23,8 @@
 {"key": "csp_xpath_348z","name": "🛰️348电影(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/348z.json"},
 {"key":"csp_xpath_hyingku","name":"🤗嗨影库(XP)", "type":3, "api":"csp_XPath", "searchable":1,"quickSearch":1, "filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/hyingku.json"},
 //{"key":"csp_Juhuang","name":"🤗剧荒(SP)", "type":3, "api":"csp_Juhuang", "searchable":1,"quickSearch":1, "filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/juhuang1.jar"  },
-{"key": "csp_xpath_1024","name": "🐛1024磁搜(XP)", "type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ftyyy.tk/MeowXP/1024bt.json"
-    },
+{"key":"剧荒TV（SP）",name:'🎭剧荒（SP）',type:3,api:'csp_Juhuang',searchable:1,quickSearch:1,filterable:1,jar:"https://aruisi888.github.io/MaooXB/juhuang.json"},
+{"key": "csp_xpath_1024","name": "🐛1024磁搜(XP)", "type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ftyyy.tk/MeowXP/1024bt.json"},
     
     
 {"key":"csp_biubiu_F7好看剧","name":"🥒F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/F7好看剧.json"},   
