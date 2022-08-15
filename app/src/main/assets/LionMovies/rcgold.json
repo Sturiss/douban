@@ -45,15 +45,7 @@
       "filterable": 1,
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/5552xp.json"},  
     
-  {
-      "key": "csp_xpath_555dy",
-      "name": "💞555电影(XP3)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/5553xp.json"},  
+  //{      "key": "csp_xpath_555dy",      "name": "💞555电影(XP3)",      "type": 3,      "api": "csp_XPathFilter",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/5553xp.json"},  
     
     
     
