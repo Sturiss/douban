@@ -24,7 +24,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
- https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/dyn.json"},
+     "ext":https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/dyn.json"},
  {
       "key": "csp_xpath_555dy",
       "name": "💞555电影(XP)",
@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/555dy.json"},
+      "ext": https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/555dy.json"},
  {"key":"200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},   
 {"key":"csp_xpath_Gra4K","name":"🤗Gra4K(XP)", "type":3, "api":"csp_XPath", "searchable":1,"quickSearch":1, "filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/Grab4K.json"},    
 {"key":"csp_ysv2_amhys","name":"🌭爱麻花(SP)","type":3,"api":"csp_AppYsV2", "searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},    
