@@ -303,6 +303,19 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+  
+ {"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
+{"name":"parwix2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"07","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},     
+{"name":"10","type":0,"url":"https://dm.xmflv.com:4433/?url="}, 
+{"name":"yemu","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"解析2","type": 1,"url": "https://json.freejx.in/?url="},       
+{"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}, 
+{"name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}, 
+{"name":"搬运","type":1,"url":"https://jx.bynote.top/API.php?url="}, 
+  
+  
+  
   {
       "name": "QQ解析",
       "type": 1,
