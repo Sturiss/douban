@@ -1,7 +1,6 @@
 {
 
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/xxoo818.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
-
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/xxoo805.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
