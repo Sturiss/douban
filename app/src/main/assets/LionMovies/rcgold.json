@@ -337,6 +337,18 @@
       }
     },
     
+   {"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
+{"name":"parwix2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"07","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},     
+{"name":"10","type":0,"url":"https://dm.xmflv.com:4433/?url="}, 
+{"name":"yemu","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"解析2","type": 1,"url": "https://json.freejx.in/?url="},       
+{"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}, 
+{"name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}, 
+{"name":"搬运","type":1,"url":"https://jx.bynote.top/API.php?url="}, 
+    
+    
+    
     
  // {"name": "爱酷解析","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="},
 {"name":"油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
