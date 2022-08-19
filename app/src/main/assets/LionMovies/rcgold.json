@@ -814,7 +814,7 @@
 {"key": "pic","value": "cover"}]}}],
   
    "spider": [
-        { "n": "default", "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/20220724.jar" }, //默认jar
+        { "n": "default", "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/2top93.jar" }, //默认jar
         { "n": "jar1",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/220721bili.jar" },
         { "n": "jar2",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/MGTV.jar" },
         { "n": "jar3",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0819.jar" },
