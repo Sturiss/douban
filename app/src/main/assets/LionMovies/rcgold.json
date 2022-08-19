@@ -804,35 +804,8 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
+  "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],"url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},"response": {"result": "$.data","data": [{"key": "name","value": "title"},{"key": "note","value": "rate"},{"key": "pic","value": "cover"}]}}],
   "wallpaper": "http://css.lc/api.php",
-  //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/ggtv0805.jar"
-  "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],
-"url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},
-"response": {"result": "$.data","data": [
-{"key": "name","value": "title"},
-{"key": "note","value": "rate"},
-{"key": "pic","value": "cover"}]}}],
-  
-   "spider": [
-        { "n": "default", "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/2top93.jar" }, //默认jar
-        { "n": "jar1",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/220721bili.jar" },
-        { "n": "jar2",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/MGTV.jar" },
-        { "n": "jar3",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0819.jar" },
-        { "n": "jar4",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/xxoo818.jar"},
-        { "n": "jar5",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/220721bili.jar"},
-        { "n": "jar6",    "v": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/top93.jar" },
-       
-    ]
-  
-  
-  
-  
-  
-  //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/top93.jar"
-  
-  
-  
-  
-  
-  
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/top93.jar"
+   
 }
