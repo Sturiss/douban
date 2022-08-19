@@ -1,11 +1,14 @@
 {
   "sites": [
 {"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_小纸条源","name":"🔥小纸条源",   "type":3,"api":"csp_GitCafe"    ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"FindZY",       "name":"🐱找资源(搜索)","type":3,"api":"csp_FindZY"     ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
+{"key": "csp_找资源",   "name": "🧲找资源(SP)","type": 3,"api": "csp_FindZY"   ,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_神马影视","name":"🔥神马影视","type":3,"api":"csp_Smdyy"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"mtv_pc_低端影视","name":"🔥低端影视","type":3,"api":"csp_Ddrk"          ,"searchable":1,"quickSearch":1,"filterable":0},
-{"key":"mtv_pc_官方资源","name":"🔥360资源","type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_官方资源","name":"🔥360资源","type":3,"api":"csp_SP360"          ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_厂长影视","name":"🔥厂长资源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_奥特影视","name":"🔥奥特影视","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
@@ -40,12 +43,7 @@
 "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sahuidalang/xbiubiu/main/MaooXB/555dy.json" },   
 {"key": "csp_BBB",           "name":"🅱️哔哩自定义","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/bilirch.json"},
 {"key": "csp_chinady",       "name": "🔍中国电影","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/chinady.json"    },    
-
-{"key":"mtv_pc_小纸条源",   "name":"🔥小纸条源","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"FindZY",       "name":"🐱找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-{"key": "csp_找资源",   "name": "🧲找资源(SP)搜索","type": 3, "api": "csp_FindZY", "searchable": 1,"quickSearch": 1,"filterable": 1},
-
-    {"key": "300看世界","name": "🗼300看世界","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://300ys.xyz/mogai_api.php/v1.vod"},
+{"key": "300看世界","name": "🗼300看世界","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://300ys.xyz/mogai_api.php/v1.vod"},
 { "key": "csp_appysv2_爱酷影视","name": "🗼爱酷影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"    },
 {"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/xzbdfw/xxbox/raw/branch/main/MaooXP/yinfans.json"},
     
