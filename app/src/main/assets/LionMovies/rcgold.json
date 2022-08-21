@@ -1,5 +1,14 @@
 {
   "sites": [
+    
+    
+    
+{"key": "蜂鸟","name": "蜂鸟","type": 4,"api": "http://z.kooo.eu.org/api/t4/fnsp","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "293","name": "293","type": 4,"api": "http://z.kooo.eu.org/api/t4/293","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "迷你","name": "迷你","type": 4,"api": "http://z.kooo.eu.org/api/t4/mini","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "kkys","name": "看123","type": 4,"api": "http://z.kooo.eu.org/api/t4/kkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+    
+    
 {"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小纸条源","name":"🔥小纸条源",   "type":3,"api":"csp_GitCafe"    ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"FindZY",       "name":"🐱找资源(搜索)","type":3,"api":"csp_FindZY"     ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
