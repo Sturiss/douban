@@ -1,8 +1,13 @@
 {
   "sites": [   
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"push_agent","name":"🐱推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},    
+    
 {"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_小纸条源","name":"🔥小纸条源",   "type":3,"api":"csp_GitCafe"    ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"FindZY",       "name":"🐱找资源(搜索)","type":3,"api":"csp_FindZY"     ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
+{"key":"FindZY",       "name":"🐱找资源(搜索2)","type":3,"api":"csp_FindZY"     ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
 {"key": "csp_找资源",   "name": "🧲找资源(SP)","type": 3,"api": "csp_FindZY"   ,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_神马影视","name":"🔥神马影视","type":3,"api":"csp_Smdyy"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
