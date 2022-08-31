@@ -1,10 +1,10 @@
 {"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0828.jar",
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jbi5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2OC9saXZlLzA4MjJ6Yi50eHQ="]}]}],
  "sites":[
-   {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"csp_Kunyu77", "name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar"},    
    {"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-   {"key":"T4","name":"T4爬虫","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable":1,"quickSearch":1,"filterable":0},
-  {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+   {"key":"T4",          "name":"🐞T4爬虫","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"t4public",     "name":"🐞T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"csp_Alist22","name":"🐞Adult.Drive(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://cn.kstore.space/download/2868/jar/alist.jar","ext":"https://drive.9t.ee"},
   {"key":"csp_Alist1","name":"一只鱼","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
   {"key":"csp_Alist2","name":"七米蓝","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://al.chirmyram.com"},
