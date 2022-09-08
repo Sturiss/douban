@@ -25,7 +25,8 @@
 {"key":"bdys","name":"💥哔嘀磁力(慎用)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/bdys01.json","jar": "https://gitea.com/liucn/box/raw/branch/main/sub/ext/cili.jpg"},
    
 
-{"key":"csp_KanSJ","name":"🗽看视界(神器妹推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_KanSJ","name":"🗽看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_AppTT","name":"🐰兔兔(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Wmkk","name":"💯‍完美(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -35,7 +36,6 @@
 {"key":"csp_Lib","name": "🎉Lib(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🏝Aue(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_SP360","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan" ,"name":"⏮️低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Jianying","name":"✨简影(SP)","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoxNDg0MywiQ3JlYXRlZEF0IjoiMjAyMi0wNC0xMlQxMDoxMjowNi4wMjQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA1VDEwOjQ5OjMwLjU4NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjE2OTM1MTE4NkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjYzI0NWM4NS1jMjc1LTRhMmYtYmI5MC02ZWYxODg5ZDA4YzQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo0OTozMC41ODQrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYyOTkxNTA1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D5bWERTTmTREF3H7lOGxwq9Ec8ou82909YpqO2PJqg4"},
@@ -49,22 +49,6 @@
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Anime1","name": "🌸日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-	
-{"key":"dr_万能影视","name":"🔃万能(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_喵喵"    ,"name":"🔃喵喵(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_夜空"    ,"name":"🔃夜空(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=夜空","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_干饭影视","name":"🔃干饭(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=干饭影视","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_蓝光影院","name":"🔃蓝光(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_蓝莓影视","name":"🔃蓝莓(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_瓜皮TV","name":"🔃瓜皮TV(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=瓜皮TV","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_莫扎兔","name":"🔃莫扎兔(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_鸭奈飞","name":"🔃鸭奈飞(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_看视界","name":"🔃看视界(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=看视界","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_影视工厂","name":"🔃影视工厂(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=影视工厂","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_555影视","name":"🔃555影视(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_cokemv","name":"🔃cokemv(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_LIBVIO","name":"🔃LIBVIO(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_在线之家","name":"🔃在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"低端","name":"🐞vip2","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"80S","name":"🐞vip8","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
@@ -86,7 +70,22 @@
 {"key": "csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/qiumi.json"},
 {"key": "csp_xpath_kuqimv","name": "🎤酷奇MV","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/kuqimv.json"},	   
     
-
+	
+{"key":"dr_万能影视","name":"🔃万能(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_喵喵"    ,"name":"🔃喵喵(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_夜空"    ,"name":"🔃夜空(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=夜空","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_干饭影视","name":"🔃干饭(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=干饭影视","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_蓝光影院","name":"🔃蓝光(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_蓝莓影视","name":"🔃蓝莓(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_瓜皮TV","name":"🔃瓜皮TV(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=瓜皮TV","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_莫扎兔","name":"🔃莫扎兔(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_鸭奈飞","name":"🔃鸭奈飞(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_看视界","name":"🔃看视界(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=看视界","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_影视工厂","name":"🔃影视工厂(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=影视工厂","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_555影视","name":"🔃555影视(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_cokemv","name":"🔃cokemv(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_LIBVIO","name":"🔃LIBVIO(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_在线之家","name":"🔃在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"mtv_pc_酷云七七","name":"🔥新七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
@@ -603,56 +602,16 @@
     {
       "group": "硬解码",
       "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
+        {          "category": 4,          "name": "opensles",          "value": "0"        },
+        {          "category": 4,          "name": "overlay-format",          "value": "842225234"        },
+        {          "category": 4,          "name": "framedrop",          "value": "1"        },
+        {          "category": 4,          "name": "soundtouch",          "value": "1"        },
+        {          "category": 4,          "name": "start-on-prepared",          "value": "1"        },
+        {          "category": 1,          "name": "http-detect-range-support",          "value": "0"        },
+        {          "category": 1,          "name": "fflags",          "value": "fastseek"        },
+        {          "category": 2,          "name": "skip_loop_filter",          "value": "48"        },
+        {          "category": 4,          "name": "reconnect",          "value": "1"        },
+        {          "category": 4,          "name": "enable-accurate-seek",          "value": "0"        },
         {          "category": 4,          "name": "mediacodec",          "value": "1"        },
         {          "category": 4,          "name": "mediacodec-auto-rotate",          "value": "1"        },
         {          "category": 4,          "name": "mediacodec-handle-resolution-change",          "value": "1"        },
@@ -660,7 +619,7 @@
         {   "category": 1,          "name": "dns_cache_timeout",          "value": "600000000"        }      ]    }  ],
   "ads": [  "mimg.0c1q0l.cn",    "www.googletagmanager.com",    "www.google-analytics.com",    "mc.usihnbcq.cn",    "mg.g1mm3d.cn",    "mscs.svaeuzh.cn",    "cnzz.hhttm.top",    "tp.vinuxhome.com",    "cnzz.mmstat.com",    "www.baihuillq.com",    "s23.cnzz.com",    "z3.cnzz.com",    "c.cnzz.com",    "stj.v1vo.top",    "z12.cnzz.com",    "img.mosflower.cn",    "tips.gamevvip.com",    "ehwe.yhdtns.com",    "xdn.cqqc3.com",    "www.jixunkyy.cn",    "sp.chemacid.cn",    "hm.baidu.com",    "s9.cnzz.com",    "z6.cnzz.com",    "um.cavuc.com",    "mav.mavuz.com",    "wofwk.aoidf3.com",    "z5.cnzz.com",    "xc.hubeijieshikj.cn",    "tj.tianwenhu.com",    "xg.gars57.cn",    "k.jinxiuzhilv.com",    "cdn.bootcss.com",    "ppl.xunzhuo123.com",    "xomk.jiangjunmh.top",    "img.xunzhuo123.com",    "z1.cnzz.com",    "s13.cnzz.com",    "xg.huataisangao.cn",    "z7.cnzz.com",    "xg.huataisangao.cn",    "z2.cnzz.com",    "s96.cnzz.com",    "q11.cnzz.com",    "thy.dacedsfa.cn",    "xg.whsbpw.cn",    "s19.cnzz.com",    "z8.cnzz.com",    "s4.cnzz.com",    "f5w.as12df.top",    "ae01.alicdn.com",    "www.92424.cn",    "k.wudejia.com",    "vivovip.mmszxc.top",    "qiu.xixiqiu.com",    "cdnjs.hnfenxun.com",    "cms.qdwght.com" ],
   "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],"url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},"response": {"result": "$.data","data": [{"key": "name","value": "title"},{"key": "note","value": "rate"},{"key": "pic","value": "cover"}]}}],
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/907F.jar;md5;ccd634a9359ebbde69ed804013f90163",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/908xxoo.jar;md5;610afb6bb32e7c6d8aef182883702ad1",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
   
    
