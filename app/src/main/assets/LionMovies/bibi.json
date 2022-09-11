@@ -1,11 +1,11 @@
 
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0908xxoo.jar;md5;610afb6bb32e7c6d8aef182883702ad1",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/xo911.jar;md5;89a367a21768e46bc528b6ecf735e1b3",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
 	
 	"sites":[
-   {"key":"csp_Kunyu77",    "name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},    
+{"key":"csp_Kunyu77",    "name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},    
 {"key":"csp_GitCafe","name":"📜小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "7bb5b24ca3274ad781a6071082e9eebd"},
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "7bb5b24ca3274ad781a6071082e9eebd"},
 {"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "7bb5b24ca3274ad781a6071082e9eebd"},
@@ -19,15 +19,15 @@
 {"key":"csp_LiteApple"      ,"name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},      
 {"key":"快看"               ,"name":"🥒快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DiDuan" ,"name":"⏮️低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"csp_DiDuan" ,"name":"⏮️低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Smdyy","name": "🐴神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_SP293","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_SP293","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_jihuang","name":"🚀剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_555","name":"5️⃣️555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj"           ,"name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh"          ,"name":"🐼小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影院"           ,"name":"🥒小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"低端影视"           ,"name":"🥒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"低端影视"           ,"name":"🥒低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys"         ,"name": "🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"厂长影视"           ,"name":"🥒厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ikan"          ,"name":"🐞爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
