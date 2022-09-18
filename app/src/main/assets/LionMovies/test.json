@@ -29,22 +29,6 @@
 {"name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}, 
 {"name":"搬运","type":1,"url":"https://jx.bynote.top/API.php?url="}, 
     
-    
-    
-    
- // {"name": "爱酷解析","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="},
-{"name":"油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-{"name": "keyu",	"type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-{"name": "M3U8TV解析", "type": 0,"url": "https://jx.m3u8.tv/jiexi/?url=" },
-{"name": "盘古解析",   "type": 0,"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
-
-    {"name": "Bozrc稳定","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
- 
-    {"name": "nxflv","type": 1,"url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
-    {"name": "tvjx", "type": 1,"url": "http://42.157.129.28:5612/tvjx/?url="},
-    {"name": "M117解析", "type": 0,"url": "http://1.117.152.239:39000/?url="},
-    {"name": "fuqi1解析", "type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
-    {"name": "fuqi2解析", "type": 1, "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
    
   
   "ijk": [
