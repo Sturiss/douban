@@ -12,6 +12,7 @@
     {      "type_name": "戏曲",          "type_id": "戏曲"         },
     {      "type_name": "演唱会",        "type_id": "演唱会"       },
     {      "type_name": "JAVA",             "type_id": "JAVA"       },
+       {      "type_name": "Android",             "type_id": "Android"       },
     {      "type_name": "粤语歌曲",          "type_id": "粤语歌曲"    },
     {      "type_name": "2022年热榜",    "type_id": "2022年热们歌曲" },
     {      "type_name": "经典老歌",      "type_id": "经典老歌"    },
@@ -126,6 +127,35 @@
     ],
     
     
+    
+          
+  "Android": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {            "n": "Android",               "v": "Android"   },
+          {            "n": "Android程序员",           "v": "Android程序员"  },
+          {            "n": "Android项目",             "v":"Android项目"},
+          {            "n": "Android视频播放器项目",   "v":"Android视频播放器项目"},
+          {            "n": "Android播放器",             "v":"Android播放器"},
+
+          {            "n": "JAVA实战",         "v":"JAVA实战"  }
+
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {            "n": "全部",                  "v": "0"          },
+          {            "n": "60分钟以上",            "v": "4"          },
+          {            "n": "30~60分钟",             "v": "3"          },
+          {            "n": "10~30分钟",             "v": "2"          },
+          {            "n": "10分钟以下",            "v": "1"          }
+        ]
+      }
+    ],
     
     
     
