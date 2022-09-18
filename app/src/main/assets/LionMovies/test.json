@@ -1,7 +1,7 @@
 {
   "sites": [   
 
-{"key":"csp_GitCafe"   ,"name":"📜小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "5dde4e1bdf9e4966b387ba58f4b3fdc3"},
+{"key":"csp_GitCafe"   ,"name":"📜小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "a6a3a2e9b1644facb297db2b2b4c773f"},
 {"key":"csp_Bd"        ,"name":"💥哔嘀(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": ""},
 {"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": ""},
