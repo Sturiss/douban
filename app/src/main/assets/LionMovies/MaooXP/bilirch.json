@@ -104,6 +104,8 @@
           {            "n": "JAVA",               "v": "JAVA"   },
           {            "n": "JAVA程序员",           "v": "JAVA程序员"  },
           {            "n": "JAVA项目",             "v":"JAVA项目"},
+            {            "n": "JAVA播放器项目",             "v":"JAVA视频播放器项目"},
+                   {            "n": "JAVA播放器项目",             "v":"JAVA MP4播放器项目"},
           {            "n": "JAVA实战",         "v":"JAVA实战"  }
 
         ]
