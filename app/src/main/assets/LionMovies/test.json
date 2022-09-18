@@ -1,16 +1,13 @@
 {
   "sites": [   
 
-{"key":"csp_Bd"        ,"name":"💥主线路","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},	
-{"key":"csp_GitCafe"   ,"name":"📜备用线路一","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": ""},
-
+{"key":"csp_GitCafe"   ,"name":"📜小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": ""},
+{"key":"csp_Bd"        ,"name":"💥哔嘀(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "7bb5b24ca3274ad781a6071082e9eebd"},
 {"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "7bb5b24ca3274ad781a6071082e9eebd"},
-{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "7bb5b24ca3274ad781a6071082e9eebd"},  
+{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "7bb5b24ca3274ad781a6071082e9eebd"},    
+{"key": "T4","name": "🐞T4桉佬(搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},	 
 {"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd"}],
-  
-  
-  
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vU3R1cmlzcy9kb3ViYW4vYmxvYi9tYWluL2FwcC9zcmMvbWFpbi9hc3NldHMvTGlvbk1vdmllcy9saXZlL2xpdmUudHh0"]}]}],
  
 "parses": [
@@ -27,10 +24,47 @@
 {"name":"解析2","type": 1,"url": "https://json.freejx.in/?url="},       
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}, 
 {"name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}, 
-{"name":"搬运","type":1,"url":"https://jx.bynote.top/API.php?url="}, 
-    
+{"name":"搬运","type":1,"url":"https://jx.bynote.top/API.php?url="},  
    
-  
+{"name":"油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name": "keyu",	"type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name": "M3U8TV解析", "type": 0,"url": "https://jx.m3u8.tv/jiexi/?url=" },
+{"name": "盘古解析",   "type": 0,"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
+
+    {      "name": "线路诺讯",      "type": 1,      "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="    }  ],  "flags": [    "youku",
+    "qq",
+    "iqiyi",
+    "imgo",
+    "xueren",
+    "m1905",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "dbm3u8",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "le",
+    "duoduozy",
+    "renrenmi",
+    "xigua",
+    "优酷",
+    "西瓜",
+    "乐视",
+    "芒果",
+    "腾讯",
+    "爱奇艺",
+    "奇艺",
+    "ltnb",
+    "rx",
+    "CL4K",
+    "xfyun",
+    "wuduzy",
+    "哔哩哔哩",
+    "哔哩"
+  ],
   "ijk": [
     {
       "group": "软解码",
@@ -138,4 +172,5 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/oo911.jar;md5;89a367a21768e46bc528b6ecf735e1b3",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img"    
   
+   
 }
