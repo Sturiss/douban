@@ -1,7 +1,7 @@
 {
   "sites": [   
  {"key":"csp_AppTT"   ,"name":"🐰兔兔(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
- {"key":"mtv_七七"     ,"name":"🔥新七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"mtv_七七"     ,"name":"🔥新七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_GitCafe"   ,"name":"📜小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": ""},
 {"key":"csp_Bd"        ,"name":"💥哔嘀(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},	
 
