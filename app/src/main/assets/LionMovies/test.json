@@ -175,8 +175,22 @@
  
  // "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/2915.jar",
 
- "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0920.jar;md5;1236b6ca98013483085cdde3bb462b70",
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img"    
+// "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0920.jar;md5;1236b6ca98013483085cdde3bb462b70",
+
+  "spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/888.png;md5;7BF81EB29F54645E289066EF7071A76C",	
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0919.jar;md5;1bdb09562c5d0fb27bf32cfa1eadd897",
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0917.jar;md5;89a367a21768e46bc528b6ecf735e1b3",
+ //"spider": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Jar/91c1.jar",
+// "spider": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Jar/0917.jar",
+// "spider": "https://gitcode.net/q284855646/diy/-/raw/root/jar/0918.jar;md5;4FBFCC5F52D2C063F0EA4F0B9BCC04E4",
+//"spider":"https://ncnc8388.github.io/ali.jar",
+//"spider":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/ali.jar",
+
+  
+  
+  
+  
+  "wallpaper":"http://www.kf666888.cn/api/tvbox/img"    
   
    
 }
