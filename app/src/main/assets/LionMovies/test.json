@@ -3,10 +3,10 @@
 
 {"key":"csp_GitCafe"   ,"name":"📜小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "b16f91f99b7f47478bd0599cdb2fa4b4"},
 {"key":"csp_Bd"        ,"name":"💥哔嘀(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"盘挂Alist1","name":"网盘🐞掛載","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://m-ltv.github.io/T-V/ext/alist.json"},
-{"key":"盘挂Alist4","name":"网盘🐞掛載4","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ygyzy.github.io/api/alist/🅿Alist网盘.json"},
-{"key":"盘挂Alist2","name":"网盘🐞掛載ʷ","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"9T(Adult)$https://drive.9t.ee#小兵组$https://6vv.app#梓澪妙妙$https://xn--i0v44m.xyz","jar":"https://m-ltv.github.io/T-V/jar/alist00.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
-{"key":"盘挂Alist","name":"网盘🐞Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/Alist.json"},
+{"key":"盘挂Alist1","name":"网盘🐞掛載","type":3,"api":"csp_Alist3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://m-ltv.github.io/T-V/ext/alist.json"},
+{"key":"盘挂Alist4","name":"网盘🐞掛載4","type":3,"api":"csp_Alist3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ygyzy.github.io/api/alist/🅿Alist网盘.json"},
+{"key":"盘挂Alist2","name":"网盘🐞掛載ʷ","type":3,"api":"csp_Alist3","searchable":0,"quickSearch":0,"filterable":0,"ext":"9T(Adult)$https://drive.9t.ee#小兵组$https://6vv.app#梓澪妙妙$https://xn--i0v44m.xyz","jar":"https://m-ltv.github.io/T-V/jar/alist00.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
+{"key":"盘挂Alist","name":"网盘🐞Alist合集","type":3,"api":"csp_Alist3","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/Alist.json"},
     
     
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "b16f91f99b7f47478bd0599cdb2fa4b4"},
