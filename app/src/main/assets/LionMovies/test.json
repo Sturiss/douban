@@ -175,9 +175,8 @@
  
  // "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/2915.jar",
 
-// "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/0920.jar;md5;1236b6ca98013483085cdde3bb462b70",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/custom_spider.jar;md5;54027c46aa22ac5933ec4f138b436455",
 
- "spider": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Jar/custom_spider.jar;md5;54027c46aa22ac5933ec4f138b436455",
 
 
   
