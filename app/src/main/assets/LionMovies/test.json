@@ -33,6 +33,8 @@
 {"key":"csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name": "🌸日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},   
     
+ {"key":"Upyunso","name":"😻Up云(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
+ 
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "b16f91f99b7f47478bd0599cdb2fa4b4"},
 {"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "b16f91f99b7f47478bd0599cdb2fa4b4"},
 {"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "b16f91f99b7f47478bd0599cdb2fa4b4"},    
