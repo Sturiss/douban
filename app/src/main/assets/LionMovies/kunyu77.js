@@ -1,8 +1,8 @@
-import { randomStr } from './util.js';
-import './dayjs.min.js'
-import './uri.min.js';
-import './crypto-js.js'
-import _ from './underscore-esm-min.js'
+import { randomStr } from './lib/util.js';
+import './lib/dayjs.min.js'
+import './lib/uri.min.js';
+import './lib/crypto-js.js'
+import _ from './lib/underscore-esm-min.js'
 
 let key = 'kunyu77';
 let url = 'http://api.kunyu77.com';
