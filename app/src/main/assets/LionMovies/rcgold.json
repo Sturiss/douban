@@ -3,8 +3,8 @@
     
     
 {"key": "77-JS","name": "77[JS]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/kunyu77.js"  },
-{"key": "77-JS","name": "77[JS]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/kunyu77_2.js"  },
-{"key": "77-JS","name": "77[JS]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/360影视.js"  },
+{"key": "77-2JS","name": "77[JS2]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/kunyu77_2.js"  },
+{"key": "77-3JS","name": "77[JS3]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/360影视.js"  },
 
 {"key":"csp_AppTT"   ,"name":"🐰兔兔(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_七七"     ,"name":"🔥新七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1}, 
