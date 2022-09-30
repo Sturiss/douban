@@ -1,10 +1,10 @@
 
 
 import { randomStr } from 'https://ghproxy.com/https://github.com/Sturiss/dlgt7-CatVodSpiderJS/blob/main/lib/util.js';
-import 'https://ghproxy.com/https://github.com/Sturiss/dlgt7-CatVodSpiderJS/blob/main/lib/dayjs.min.js'
+import 'https://ghproxy.com/https://github.com/Sturiss/dlgt7-CatVodSpiderJS/blob/main/lib/dayjs.min.js';
 import 'https://ghproxy.com/https://github.com/Sturiss/dlgt7-CatVodSpiderJS/blob/main/lib/uri.min.js';
-import 'https://ghproxy.com/https://github.com/Sturiss/dlgt7-CatVodSpiderJS/blob/main/lib/crypto-js.js'
-import _ from 'https://ghproxy.com/https://github.com/Sturiss/dlgt7-CatVodSpiderJS/blob/main/lib/underscore-esm-min.js'
+import 'https://ghproxy.com/https://github.com/Sturiss/dlgt7-CatVodSpiderJS/blob/main/lib/crypto-js.js';
+import _ from 'https://ghproxy.com/https://github.com/Sturiss/dlgt7-CatVodSpiderJS/blob/main/lib/underscore-esm-min.js';
 
 
 
