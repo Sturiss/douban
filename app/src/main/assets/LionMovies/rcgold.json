@@ -2,14 +2,11 @@
   "sites": [   
     
     
-{"key": "77-JS","name": "77[JS]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/kunyu77.js"  },
-{"key": "77-2JS","name": "77[JS2]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/kunyu77_2.js"  },
-{"key": "77-3JS","name": "77[JS3]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/360影视.js"  },
-
-{"key":"csp_AppTT"   ,"name":"🐰兔兔(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_七七"     ,"name":"🔥新七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_GitCafe"   ,"name":"📜小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "b16f91f99b7f47478bd0599cdb2fa4b4"},
+
+{"key":"mtv_七七"     ,"name":"🔥新七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Bd"        ,"name":"💥哔嘀(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},	
+{"key":"csp_AppTT"   ,"name":"🐰兔兔(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Alist1"   ,"name":"🅿Alist合集","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/MaooXP/alistrcgold.json"},
 {"key":"csp_bendi"    ,"name":"🅿本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
@@ -581,7 +578,7 @@
   "ads": [  "mimg.0c1q0l.cn",    "www.googletagmanager.com",    "www.google-analytics.com",    "mc.usihnbcq.cn",    "mg.g1mm3d.cn",    "mscs.svaeuzh.cn",    "cnzz.hhttm.top",    "tp.vinuxhome.com",    "cnzz.mmstat.com",    "www.baihuillq.com",    "s23.cnzz.com",    "z3.cnzz.com",    "c.cnzz.com",    "stj.v1vo.top",    "z12.cnzz.com",    "img.mosflower.cn",    "tips.gamevvip.com",    "ehwe.yhdtns.com",    "xdn.cqqc3.com",    "www.jixunkyy.cn",    "sp.chemacid.cn",    "hm.baidu.com",    "s9.cnzz.com",    "z6.cnzz.com",    "um.cavuc.com",    "mav.mavuz.com",    "wofwk.aoidf3.com",    "z5.cnzz.com",    "xc.hubeijieshikj.cn",    "tj.tianwenhu.com",    "xg.gars57.cn",    "k.jinxiuzhilv.com",    "cdn.bootcss.com",    "ppl.xunzhuo123.com",    "xomk.jiangjunmh.top",    "img.xunzhuo123.com",    "z1.cnzz.com",    "s13.cnzz.com",    "xg.huataisangao.cn",    "z7.cnzz.com",    "xg.huataisangao.cn",    "z2.cnzz.com",    "s96.cnzz.com",    "q11.cnzz.com",    "thy.dacedsfa.cn",    "xg.whsbpw.cn",    "s19.cnzz.com",    "z8.cnzz.com",    "s4.cnzz.com",    "f5w.as12df.top",    "ae01.alicdn.com",    "www.92424.cn",    "k.wudejia.com",    "vivovip.mmszxc.top",    "qiu.xixiqiu.com",    "cdnjs.hnfenxun.com",    "cms.qdwght.com" ],
   "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],"url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},"response": {"result": "$.data","data": [{"key": "name","value": "title"},{"key": "note","value": "rate"},{"key": "pic","value": "cover"}]}}],
  
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/jar.jar;md5;d10443e6765d1630624ffeca9ae3b179",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/jar.jar;md5;b36bd696d9b4ec61e31e86d52c2f2a3a",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img"    
   
