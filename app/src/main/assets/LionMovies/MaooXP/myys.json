@@ -1,105 +1,80 @@
-{
-    "author": "",
-    "ua": "",
-    "homeUrl": "https://www.xawqxh.net/",
-    "dcVipFlag": "true",
-    "pCfgJs": "https://www.xawqxh.net/static/js/playerconfig.js",
-   "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
-    "dcShow2Vip": {},
-    "dcPlayUrl": "true",
-    "cateManual": {
-        "电影": "1",
-        "剧集": "2", 
-        "综艺": "3",     
-            
-        "动漫": "4"
-    },
-    "homeVodNode": "//div[@class='module-items module-poster-items-base ']/a",
-    "homeVodName": "/@title",
-    "homeVodId": "/@href",
-    "homeVodIdR": "/voddetail/(\\S+).html",
-    "homeVodImg": "//div[@class='module-item-pic']/img/@data-original",
-    "homeVodImgR": "",
-    "homeVodMark": "//div[@class='module-item-note']/text()",
-   "cateUrl": "https://www.xawqxh.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-    "cateVodNode": "//div[@class='module-items module-poster-items-base ']/a",
-    "cateVodName": "/@title",
-    "cateVodId": "/@href",
-    "cateVodIdR": "/voddetail/(\\S+).html",
-    "cateVodImg": "//div[@class='module-item-pic']/img/@data-original",
-    "cateVodImgR": "",
-    "cateVodMark": "//div[@class='module-item-note']/text()",
-    "dtUrl": "https://www.xawqxh.net//voddetail/{vid}.html",
-        "dtNode": "//div[@class='module module-info']",
-    "dtName": "//div[@class='module-info-main']/div[@class='module-info-heading']/h1/text()",
-    "dtNameR": "",
-    "dtImg": "//div[@class='module-info-poster']//div[@class='module-item-pic']/img/@data-original",
-    "dtImgR": "\\S+(http\\S+)",
-        "dtCate": "concat(//span[contains(text(),'分类')]/following-sibling::*//text())",
-    "dtCateR": "",
-    	"dtArea": "concat(//span[contains(text(),'地区')]/following-sibling::*//text())",
-	"dtAreaR": "",
-    // 视频状态
-	"dtMark": "concat(//span[contains(text(),'更新')]/following-sibling::*//text())",
-	"dtMarkR": "",
-        // 主演
-	"dtActor": "concat(//span[contains(text(),'主演')]/following-sibling::*//text())",
-	"dtActorR": "",
-	"dtDirector": "concat(//span[contains(text(),'导演')]/following-sibling::*//text())",
-	"dtDirectorR": "",
-    // 视频年份
-    "dtYear": "concat(//span[contains(text(),'年份')]/following-sibling::*//text())",
-      "dtDesc": "//div[contains(@class,'show-desc')]/p/text()",
-    "dtDescR": "",
 
-  // Playlist ========================================================
-  
-  "dtFromNode": "//div[contains(@class,'module-tab-items')]/div[2]/div/span",
+{
+  "ua": "",
+  "homeUrl": "https://www.anthh.com/",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://www.anthh.com/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+"cateManual": {             
+        "电影": "1",
+        "电视剧": "2",
+        "综艺": "3",
+        "动漫": "4"},
+  "homeVodNode": "//li[@class='col-lg-6 col-md-6 col-sm-4 col-xs-3']/div/a",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/voddetail/(\\w+).html",
+  "homeVodImg": "/@data-original",
+  "homeVodImgR": "",
+  "homeVodMark": "//span[contains(@class,'pic-text text-right')]/text()",
+  "cateUrl":  "https://www.anthh.com/vodshow/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
+  "cateVodNode": "//li[@class='col-lg-8 col-md-6 col-sm-4 col-xs-3']/div/a",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/voddetail/(\\w+).html",
+  "cateVodImg": "/@data-original",
+  "cateVodImgR": "",
+  "cateVodMark": "//span[contains(@class,'pic-text text-right')]/text()",
+  "dtUrl": "https://www.anthh.com/voddetail/{vid}.html",
+  "dtNode": "//body",
+  "dtName": "//div[@class='col-xs-1']/div[@class='myui-content__thumb']/a/@title",
+  "dtNameR": "",
+  "dtImg": "//div[@class='col-xs-1']/div[@class='myui-content__thumb']/a/img/@data-original",
+  "dtImgR": "",
+  "dtCate": "//span[contains(text(), '分类')]/following-sibling::a/text()",
+  "dtYear": "//span[contains(text(), '年份')]/following-sibling::a/text()",
+  "dtMark": "//span[contains(text(), '更新')]/following-sibling::*/text()",
+  "dtMarkR": "",
+  "dtDirector": "//span[contains(text(), '导演')]/following-sibling::a/text()",
+  "dtActor": "//span[contains(text(), '主演')]/following-sibling::a/text()",
+  "dtDesc": "//span[@class='data']/p/text()",
+  "dtFromNode": "//ul[@class='nav nav-tabs active']/li/a",
   "dtFromName": "/text()",
   "dtFromNameR": "",
-  "dtUrlNode": "//div[@class='module-play-list']",
-  "dtUrlSubNode": "/div/a",
-  "dtUrlId": "/@href",
+  "dtUrlNode": "//ul[@class='myui-content__list scrollbar sort-list clearfix']",
+  "dtUrlSubNode": "/li/a",
+  "dtUrlId": "@href",
   "dtUrlIdR": "/vodplay/(\\S+).html",
-  "dtUrlName": "/span/text()",
-"dtUrlNameR": "",
-    "playUrl": "https://www.xawqxh.net/vodplay/{playUrl}.html",
-    "playUa": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
-  "searchUrl": "https://www.xawqxh.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://www.anthh.com/vodplay/{playUrl}.html",
+  "playUa": "",
+  "searchUrl": "https://www.anthh.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
   "scVodIdR": "",
   "scVodImg": "pic",
   "scVodMark": "",
-      "filter": {
+    "filter": {
     "1": [
-                        {
-        "key": "class",
+      {
+        "key": "cateId",
         "name": "类型",
         "value": [
-          { "n": "全部", "v": "" },
-           { "n": "Netflix", "v": "Netflix" },
-          { "n": "古装", "v": "古装" },
-          { "n": "战争", "v": "战争" },
-          { "n": "爱情", "v": "爱情" },
-          { "n": "喜剧", "v": "喜剧" },
-          { "n": "科幻", "v": "科幻" },
-          { "n": "犯罪", "v": "犯罪" },
-          { "n": "动作", "v": "动作" },
-          { "n": "奇幻", "v": "奇幻" },
-          { "n": "剧情", "v": "剧情" },
-          { "n": "历史", "v": "历史" },
-          { "n": "悬疑", "v": "悬疑" },
-          { "n": "恐怖", "v": "恐怖" },
-          { "n": "经典", "v": "经典" },
-          { "n": "青春", "v": "青春" },
-          { "n": "网络电影", "v": "网络电影" },
-          { "n": "冒险", "v": "冒险" },
-          { "n": "武侠", "v": "武侠" },
-          { "n": "文艺", "v": "文艺" },
-          { "n": "运动", "v": "运动" },
-          { "n": "儿童", "v": "儿童" }
+          { "n": "全部", "v": "1" },
+          { "n": "动作片", "v": "6" },
+          { "n": "喜剧片", "v": "7" },
+          { "n": "爱情片", "v": "8" },
+          { "n": "科幻片", "v": "9" },
+          { "n": "恐怖片", "v": "10" },
+          { "n": "剧情片", "v": "11" },
+          { "n": "战争片", "v": "12" },
+          { "n": "伦理片", "v": "22" },
+          { "n": "纪录片", "v": "21" },
+          { "n": "动画片", "v": "20" }
         ]
       },
       {
@@ -173,41 +148,16 @@
     "2":[
       {
         "key": "cateId",
-        "name": "分类",
-        "value": [
-          { "n": "全部", "v": "" },
-          { "n": "国产剧", "v": "13" },
-          { "n": "港台剧", "v": "15" },
-          { "n": "日韩剧", "v": "44" },
-          { "n": "欧美剧", "v": "45" }
-
-        ]
-      },
-            {
-        "key": "class",
         "name": "类型",
         "value": [
           { "n": "全部", "v": "" },
-          { "n": "Netflix", "v": "Netflix" },
-          { "n": "古装", "v": "古装" },
-          { "n": "战争", "v": "战争" },
-         // { "n": "青春偶像", "v": "青春偶像" },
-          { "n": "喜剧", "v": "喜剧" },
-          { "n": "家庭", "v": "家庭" },
-          { "n": "犯罪", "v": "犯罪" },
-          { "n": "动作", "v": "动作" },
-          { "n": "奇幻", "v": "奇幻" },
-          { "n": "剧情", "v": "剧情" },
-          { "n": "历史", "v": "历史" },
-          { "n": "经典", "v": "经典" },
-          { "n": "乡村", "v": "乡村" },
-          { "n": "情景", "v": "情景" },
-          { "n": "商战", "v": "商战" },
-          { "n": "网剧", "v": "网剧" },
-          { "n": "其他", "v": "其他" }
+          { "n": "国产剧", "v": "13" },
+          { "n": "港台剧", "v": "14" },
+          { "n": "日韩剧", "v": "15" },
+          { "n": "欧美剧", "v": "16" },
+          { "n": "海外剧", "v": "23" }
         ]
       },
-
       {
         "key": "area",
         "name": "地区",
@@ -276,20 +226,16 @@
         ]
       }
     ],
-    
         "3":[
       {
         "key": "area",
         "name": "地区",
         "value": [
           { "n": "全部", "v": "" },
-          { "n": "大陆", "v": "大陆" },
-           { "n": "大陆", "v": "大陆" },
-           { "n": "香港", "v": "香港" },          
-           { "n": "台湾", "v": "台湾" },
+          { "n": "国产", "v": "国产" },
           { "n": "日本", "v": "日本" },
-          { "n": "美国", "v": "美国" },
-          { "n": "其他", "v": "其他" }
+          { "n": "欧美", "v": "欧美" },
+          { "n": "海外", "v": "海外" }
         ]
       },
       {
@@ -332,14 +278,17 @@
         ]
       }
     ],
-        "4":[
+         "3":[
       {
-        "key": "class",
-        "name": "类型",
+        "key": "area",
+        "name": "地区",
         "value": [
           { "n": "全部", "v": "" },
-          { "n": "国产", "v": "国产" },
-          { "n": "日本", "v": "日本" }
+          { "n": "大陆", "v": "大陆" },
+          { "n": "港台", "v": "港台" },
+          { "n": "日韩", "v": "日韩" },
+          { "n": "欧美", "v": "欧美" }
+
         ]
       },
       {
@@ -383,5 +332,4 @@
       }
     ]
 }
-  
 }
