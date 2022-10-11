@@ -33,6 +33,6 @@
         "UpdateDesc":       //更新描述
            "1.新发内测版.", // \n\n\n所有更新记录:https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/UpDateLog.txt
 
-        "UpdateDownloadUrl":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/LionMovies.apk" //更新下载地址
+        "UpdateDownloadUrl":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/app-debug.apk" //更新下载地址
     }
     }
