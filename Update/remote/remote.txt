@@ -31,7 +31,8 @@
         "NewVersion":"1.0.0, //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
-           "小窗模式下取消循环播放;", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
+           "小窗模式下取消循环播放;", // \n\n\n所有更新记录:https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/UpDateLog.txt
+
         "UpdateDownloadUrl":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/LionMovies.apk" //更新下载地址
     }
     }
