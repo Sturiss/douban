@@ -4,7 +4,7 @@
     
     // 默认配置相关
     "ForceChangeAPIUrl": false, //强制替换首页默认API地址，防止API失效不更新包的手段
-    "APIUrl":"https://agit.ai/hfr1107/vvbox/raw/branch/main/tv.json", //首页默认API地址
+    "APIUrl":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/rcgold.json", //首页默认API地址
     "HomeID": "csp_CZSPP", //默认首页数据源 key
     "HomeShowType": 1, //默认首页推荐 0 豆瓣热播 1 数据源推荐 2 历史
     "HomeSearchType": 0, //默认搜索展示 0 列表 1 缩略图
@@ -32,6 +32,6 @@
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
            "1.新发内测版，加入UC浏览器接口", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
-        "UpdateDownloadUrl":"https://download.fastgit.org/hfr1107/HomeBox_relerase/releases/download/20221001-0559/TVBox_hfr1107_20221001-0559.apk" //更新下载地址
+        "UpdateDownloadUrl":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/LionMovies.apk" //更新下载地址
     }
     }
