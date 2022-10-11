@@ -26,7 +26,7 @@
     },
     
     // 更新相关
-    "IsForceUpdate":false, //是否强制显示更新UI
+    "IsForceUpdate":true, //是否强制显示更新UI
     "UpdateData":{  //更新数据
         "NewVersion":"1.1.0", //最新版本号
         "ForceUpdate":false, //是否强制更新
