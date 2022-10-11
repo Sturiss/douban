@@ -31,7 +31,7 @@
         "NewVersion":"1.0.1", //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
-           "1.新发内测版，加入UC浏览器接口", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
+           "小窗模式下取消循环播放;点击播放嗅探配置兼容不带域名的方式;修正非小窗模式不支持click", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
         "UpdateDownloadUrl":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/LionMovies.apk" //更新下载地址
     }
     }
