@@ -7,7 +7,7 @@
     "APIUrl":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/rcgold.json", //首页默认API地址
        // "APIUrl":"", //首页默认API地址
 
-    //"HomeID": "csp_CZSPP", //默认首页数据源 key
+    "HomeID": "csp_CZSPP", //默认首页数据源 key
     //"HomeShowType": 1, //默认首页推荐 0 豆瓣热播 1 数据源推荐 2 历史
     //"HomeSearchType": 0, //默认搜索展示 0 列表 1 缩略图
     //"HomeFastSearch": false, //默认聚合模式
