@@ -31,9 +31,9 @@
     "IsForceUpdate":false, //是否强制显示更新UI
     "UpdateData":{  //更新数据
     "NewVersion":"1.0.2", //最新版本号
-   // "ForceUpdate":false, //是否强制更新
-   // "UpdateDesc":       //更新描述
-   // "图床bugFixed", // \n\n\n所有更新记录:https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/UpDateLog.txt
+    "ForceUpdate":false, //是否强制更新
+    "UpdateDesc":       //更新描述
+   "图床bugFixed", // \n\n\n所有更新记录:https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/UpDateLog.txt
     "UpdateDownloadUrl":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/Update/app-debug.apk" //更新下载地址
     }
     }
