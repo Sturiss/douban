@@ -1423,7 +1423,7 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
 重庆卫视,http://39.135.32.24:6610/000000001000/1000000002000018937/1.m3u8?xtkg?zweid
 
-⚛️港台频道_12345678,#genre#
+⚛️港台频道,#genre#
 
 1.龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 2.中天娛樂FHD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
@@ -1461,7 +1461,15 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 港台电视31,mitv://ns1.hellotvvod.com:9906/1e88cc41d1bc4e89a5ca5bdbd8cb701f
 港台电视32,mitv://ns1.hellotvvod.com:9906/35829e1fda774ac487b946b6c69615d5
 香港开电视,mitv://ns1.hellotvvod.com:9906/458a18a5d8484f418f899765bedd91a4
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+翡翠,http://118.31.113.130:82/gudou.php?id=1350_4500
+翡翠,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 ﻿翡翠台(备),mitv://ns1.hellotvvod.com:9906/5f2699487c2d43d498daba79e6633959
+ 美亚电影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亚电影台,http://v3948069e.live.126.net:80/live/2377c02556.flv
+卫视电影台,http://23.237.10.66:16010
+天映频道,http://51.79.82.208:16024
 J2,mitv://ns1.hellotvvod.com:9906/090b91ee0ffb4a828ad71a4043568a4f
 无线新闻台(备),mitv://ns1.hellotvvod.com:9906/b98d989c599d43a1b8a2b195e2411aed
 无线新闻台,mitv://ns1.hellotvvod.com:9906/1717b2d92987453887f6eda613e7fd78
