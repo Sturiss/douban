@@ -1424,6 +1424,75 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 重庆卫视,http://39.135.32.24:6610/000000001000/1000000002000018937/1.m3u8?xtkg?zweid
 
 ⚛️港台频道_12345678,#genre#
+
+1.龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+2.中天娛樂FHD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
+3.AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+4.三立台灣FHD,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
+5.華視新聞資訊台FHD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
+6.動物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
+7.中天綜合FHD,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
+8.東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+9.緯來體育FHD,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
+10.CINEMAX FHD,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
+11.大愛電視,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+12.龍華偶像劇,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+13.Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
+14.亞洲旅遊,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+15.Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
+16.國家地理FHD,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
+17.華視FHD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
+18.八大綜合FHD,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
+19.momo綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
+20.緯來育樂FHD,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
+21.衛視電影FHD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+22.公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
+23.好消息頻道,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
+24.龍華日韓劇,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+25.東森綜合FHD,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
+26.NHK世界FHD,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
+27.緯來戲劇,http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+28.緯來綜合FHD,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
+29.八大戲劇FHD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
+30.MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+31.龍華戲劇台,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+32.人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+港澳,#genre#
+港台电视31,mitv://ns1.hellotvvod.com:9906/1e88cc41d1bc4e89a5ca5bdbd8cb701f
+港台电视32,mitv://ns1.hellotvvod.com:9906/35829e1fda774ac487b946b6c69615d5
+香港开电视,mitv://ns1.hellotvvod.com:9906/458a18a5d8484f418f899765bedd91a4
+﻿翡翠台(备),mitv://ns1.hellotvvod.com:9906/5f2699487c2d43d498daba79e6633959
+J2,mitv://ns1.hellotvvod.com:9906/090b91ee0ffb4a828ad71a4043568a4f
+无线新闻台(备),mitv://ns1.hellotvvod.com:9906/b98d989c599d43a1b8a2b195e2411aed
+无线新闻台,mitv://ns1.hellotvvod.com:9906/1717b2d92987453887f6eda613e7fd78
+无线财经·资讯台,mitv://ns1.hellotvvod.com:9906/0c045b7802b44325bd420598a708535e
+ViuTVsix,mitv://ns1.hellotvvod.com:9906/8c2bbf172bfa48db9a2391858323a341
+ViuTV,mitv://ns1.hellotvvod.com:9906/57691eb414c5453a9eb9291dfb0f5685
+凤凰中文台,mitv://ns1.hellotvvod.com:9906/7c4f08ac03864fcaab51cce6560782f8
+凤凰资讯台,mitv://ns1.hellotvvod.com:9906/140e537efd7f4064b17f761c16119e79
+凤凰香港台,mitv://ns1.hellotvvod.com:9906/dc4d8f6f985840dcb0babe55495872ea
+TVB星河(粤),mitv://ns1.hellotvvod.com:9906/79bd95855853465eb9353b45aa38bed2
+阳光卫视,mitv://ns1.hellotvvod.com:9906/212a6897b6964f92a0d8c1dc8d63e33a
+澳门-MACAU,mitv://ns1.hellotvvod.com:9906/74cec1026f3e4e86b6c70e05622780b5
+澳门莲花,mitv://ns1.hellotvvod.com:9906/1efd8c6c9aa94628864e00d419237fd5
+now新闻台,mitv://ns1.hellotvvod.com:9906/65a54209eabc49c9876ae92b6f5a8f08
+now直播台,mitv://ns1.hellotvvod.com:9906/e5172c0033bf4c468c2897293a62bc48
+HKC电影台,mitv://ns1.hellotvvod.com:9906/4e1981227e41495681c5584d014c2b98
+凤凰电影台,mitv://ns1.hellotvvod.com:9906/caa974f2bb574a5fb9e03a4ecfe7f6ad
+HKC新闻台,mitv://ns1.hellotvvod.com:9906/e0fdd17da2bd450aa9d2717d1c04c659
+HKC财经资讯台,mitv://ns1.hellotvvod.com:9906/6a854a60ce62455595b4924d746072b7
+HKC 18,mitv://ns1.hellotvvod.com:9906/a31f0f4b56dc4aa3933d0e04a3dd0067
+HKC 603,mitv://ns1.hellotvvod.com:9906/9c54db327f5540eb9ba8854857e66e2e
+HKC體育台,mitv://ns1.hellotvvod.com:9906/702b1488b920420c9d90400d982e1051
+HKC Sports Plus 1,mitv://ns1.hellotvvod.com:9906/a9500ff102ee407087a76f398e1380d7
+HKC综合娱乐台,mitv://ns1.hellotvvod.com:9906/e9f1f1c20ab141b3b68118ef78be0cec
+TVB娱乐新闻台,mitv://ns1.hellotvvod.com:9906/d429eafbb55244a3b7f865d39eb581a5
+翡翠台,mitv://ns1.hellotvvod.com:9906/f68f896822184753a85d042879689233
+TVB经典台,mitv://ns1.hellotvvod.com:9906/b0bc494d704f4fdba5c178f93fc98608
+Thrill,mitv://ns1.hellotvvod.com:9906/e24a0f6e35694c00abeff7bf6e00fbad
+明珠台,mitv://ns1.hellotvvod.com:9906/552bc795a8c341ccb6e4386c0c230722
+18台,mitv://ns1.hellotvvod.com:9906/19ea57fdc9b24abea062767d321290bd
+美亚电影台(粤语),mitv://ns1.hellotvvod.com:9906/1ef5ca96e1d84cf2a47a2251ae6ebda7
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
