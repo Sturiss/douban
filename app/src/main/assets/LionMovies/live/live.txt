@@ -1,9 +1,4 @@
 【央视高清】,#genre#
-
-C-1,https://cctvwbcdali.v.myalicdn.com/cctvwbcd/cdrmcctv1_1/index.m3u8?b=200-2100
-C-12,https://cctvwbcdali.v.myalicdn.com/cctvwbcd/cdrmcctv1_1md.m3u8
-
-
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-1综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
