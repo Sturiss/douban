@@ -1,4 +1,4 @@
-🍇百视通8M,#genre#
+⚛️百视通8M,#genre#
 
 CCTV1 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
@@ -78,7 +78,7 @@ CCTV-4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/1500
 全球大片 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
 热门剧场 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
 
-🍊综合卫视,#genre#
+⚛️综合卫视,#genre#
 
 CCTV-1 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
@@ -153,7 +153,7 @@ CCTV风云足球高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/f
 CCTV怀旧剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 CCTV第一剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 CCTV兵器科技高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-【卫视频道】,#genre#
+⚛️卫视频道,#genre#
 北京卫视,http://111.20.33.93/PLTV/88888893/224/3221226222/index.m3u8
 北京卫视,http://111.20.33.93/TVOD/88888893/224/3221226222/index.m3u8
 北京卫视,http://111.40.196.25/PLTV/88888888/224/3221225540/index.m3u8
