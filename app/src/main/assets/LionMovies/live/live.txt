@@ -1,4 +1,4 @@
-⚛️百视通,#genre#
+⚛️外围频道,#genre#
 
 [BD]HBO1,https://epg.pw/stream/6b9f388cc5d6bf62a602fa1f35f28ccd67d58a39143d742978b5774b5207216e.m3u8
 [HD]HBO+,https://epg.pw/stream/0522a19d97420865f52d617030e55e933c5ae6782333768c9cb2f95f2d4230d9.m3u8
@@ -685,7 +685,7 @@
 [BD]NewTV 超级体育,https://epg.pw/stream/72ed64b5e6b2d6f58355030e410dc66b7f7e22f38447fab2660e5529a7ff5f5f.m3u8
 [BD]NewTV 超级体育,https://epg.pw/stream/65007489550d8e95c52c19b961818f591b5c2ebc8c672616297721f4270daee8.m3u8
 
-⚛️重庆有线,#genre#
+⚛️国内综合,#genre#
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 CCTV3,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
