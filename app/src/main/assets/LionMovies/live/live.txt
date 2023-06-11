@@ -2492,11 +2492,6 @@ CNBC Marathon,http://sc2022.stream-link.org/list.php?id=e021
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 测试,#genre#
-★★★★★★,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-本区提醒,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-无法播放,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-请重开软件,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-☆☆☆☆☆☆,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
 翡翠台,http://nas.jdshipin.com:8801/gudoufc.php
 明珠台,http://nas.jdshipin.com:8801/gudoumz.php
 TVBS,http://45.154.14.89/sazb/live.php?id=1
@@ -2518,14 +2513,6 @@ CNA News,http://45.154.14.89/sazb/live.php?id=25
 ANN News,http://45.154.14.89/sazb/live.php?id=17
 France 24 News,http://45.154.14.89/sazb/live.php?id=15
 NHK World Japan,http://45.154.14.89/sazb/live.php?id=26
-
-公告,#genre#
-蓝雨TV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-完全免费,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-严禁商用,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-违者自负,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-方便小白,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-大佬请绕道,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
 
 🌞港澳,#genre#
 港台电视31,P2p://135.148.104.228:19806/5c7ff8bb2e0349cdab492d5aea25ff3c
